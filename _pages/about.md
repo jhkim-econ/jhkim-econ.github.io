@@ -33,5 +33,5 @@ Submitted to the 2024 KER International Conference
 ---
 
 ### Contact
-Address: The National Assembly, Main Bld., 1 Uisadang-daero, Seoul, Republic of Korea 07233
+Address: The National Assembly, Main Bld., 1 Uisadang-daero, Seoul, Republic of Korea 07233  
 Email: na32@assembly.go.kr | sjhnu32@snu.ac.kr 
