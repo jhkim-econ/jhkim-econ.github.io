@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Junghwan Kim - Phd Applicant in Economics"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Junghwan Kim"
 description              : &description "Ph.D. Applicant in Economics | Applied Microeconomics, Labor Economics, Public Policy"
