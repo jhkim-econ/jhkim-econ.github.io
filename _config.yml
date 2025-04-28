@@ -130,5 +130,4 @@ timezone: Asia/Seoul
 # Plugins
 plugins:
   - jekyll-feed
-  - jekyll-sitemap
   - jemoji
