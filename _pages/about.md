@@ -1,3 +1,10 @@
+---
+layout: page
+title: "About Me"
+permalink: /about/
+---
+
+
 ## 👋 Hello! I'm Junghwan Kim  
 🎓 Labor Economist | Policy Researcher | General Equilibrium Modeling  
 
