@@ -15,6 +15,9 @@ Labor Economist | Policy Researcher | General Equilibrium Modeling
 I’m a legislative research officer at the National Assembly of South Korea, focusing on labor market reform, education inequality, and structural policy evaluation.  
 My current research uses heterogeneous-agent OLG models to study work hour regulation and household behavior.
 
+I served as a Legislative Research Officer at the [National Assembly Budget Office (NABO)](https://korea.nabo.go.kr/naboEng/main/main.do), the nonpartisan fiscal research institution of the Korean Parliament.
+
+
 ---
 
 ### Research Interests
