@@ -111,12 +111,22 @@ defaults:
     values:
       layout: single
       author_profile: true
+      css: "/assets/css/custom.css"
   - scope:
       path: ""
       type: publications
     values:
       layout: single
       author_profile: true
+      classes: wide
+      css: "/assets/css/custom.css"
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: true
+      css: "/assets/css/custom.css"
 
 # Sass/SCSS
 sass:
