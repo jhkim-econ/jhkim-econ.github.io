@@ -1,8 +1,7 @@
 ---
 title: "2025 Budget Review: Structural Issues in Build-Transfer-Lease (BTL) Projects"
-author: "Junghwan Kim"
 date: 2024-11-01
-permalink: /posts/2025-btl-budget-review/
+permalink: /posts/2024/11/blog-post-1/
 tags:
   - BTL
   - Public-Private Partnership
