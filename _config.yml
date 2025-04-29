@@ -141,3 +141,4 @@ timezone: Asia/Seoul
 plugins:
   - jekyll-feed
   - jemoji
+  - jekyll-redirect-from   # ✅ Make sure this line is included
