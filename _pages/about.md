@@ -12,8 +12,7 @@ redirect_from:
 ## Hello! I'm Junghwan Kim  
 Labor Economist | Policy Researcher | General Equilibrium Modeling  
 
-I’m a legislative research officer at the National Assembly of South Korea, focusing on labor market reform, education inequality, and structural policy evaluation.  
-My current research uses heterogeneous-agent OLG models to study work hour regulation and household behavior.
+I’m a legislative research officer at the National Assembly of South Korea, focusing on labor market reform, education inequality, and structural policy evaluation.
 
 I served as a Legislative Research Officer at the [National Assembly Budget Office (NABO)](https://korea.nabo.go.kr/naboEng/main/main.do), the nonpartisan fiscal research institution of the Korean Parliament.
 
@@ -21,16 +20,13 @@ I served as a Legislative Research Officer at the [National Assembly Budget Offi
 ---
 
 ### Research Interests
-- Labor Economics & Structural Reforms  
-- Fertility, Education, and Inequality  
-- OLG & Heterogeneous-Agent Models  
+- Labor Economics & Structural Reforms    
 - Applied Microeconomics
 
 ---
 
 ### Working Paper
-**Labor Hour Spillovers and Crowd-out of Educational Spending**  
-Submitted to the 2024 KER International Conference  
+**Labor Hour Spillovers and Crowd-out of Educational Spending**   
 [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5214642) 
 
 ---
