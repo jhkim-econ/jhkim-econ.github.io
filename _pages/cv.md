@@ -17,7 +17,7 @@ You can download my full CV [here](../files/Junghwan_Kim_CV.pdf).
 - **B.A. in Business and Economics**  
   Seoul National University, College of Social Sciences  
   Mar 2012 – Aug 2016  
-  *Valedictorian, Summer Class of 2016 (GPA: 4.23/4.3)*  
+  *Valedictorian, Summer Class of 2016*  
   *Samsung Frontier Leaders Full Scholarship Recipient (2011–2016)*
 
 ---
@@ -25,7 +25,6 @@ You can download my full CV [here](../files/Junghwan_Kim_CV.pdf).
 ### Research Interests
 
 - Labor economics with a focus on structural shifts in industries
-- Applied microeconomics
 - Public policy evaluation
 
 ---
@@ -33,7 +32,7 @@ You can download my full CV [here](../files/Junghwan_Kim_CV.pdf).
 ### Publications & Working Papers
 
 - **Labor Hour Spillovers and Crowd-out of Educational Spending: Evidence from Korea’s Work Hour Reform**  
-  _Solo-authored; Submitted to the 26th Korean Economic Review International Conference_  
+  _Working Paper_  
   Estimated inter-firm spillover effects of labor hours using IV techniques with panel data; developed a heterogeneous-agent OLG model.
 
 - **Potential Risks from COVID-19 Responses and Liquidity Expansion**  
