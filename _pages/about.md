@@ -10,7 +10,6 @@ redirect_from:
 
 
 ## Hello! I'm Junghwan Kim  
-Labor Economist | Policy Researcher | General Equilibrium Modeling  
 
 I’m a legislative research officer at the National Assembly of South Korea, focusing on labor market reform, education inequality, and structural policy evaluation.
 
