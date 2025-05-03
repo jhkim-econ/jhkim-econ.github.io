@@ -12,7 +12,7 @@ site_theme               : "default"
 title                    : "Home"
 title_separator          : "-"
 name                     : &name "Junghwan Kim"
-description              : &description "Ph.D. Applicant in Economics | Applied Microeconomics, Labor Economics, Public Policy"
+description              : &description "Ph.D. Applicant in Economics | Labor Economics, Applied Microeconomics, Public Policy"
 url                      : https://jhkim-econ.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "jhkim-econ/jhkim-econ.github.io"
@@ -24,7 +24,7 @@ author:
   # Biographic information
   avatar           : "profile.jpg"
   name             : "Junghwan Kim"
-  bio              : "Ph.D. Applicant in Economics | Applied Microeconomics, Labor Economics, Human Capital"
+  bio              : "Ph.D. Applicant in Economics | Labor Economics, Applied Microeconomics, Public Policy"
   location         : "Seoul, Republic of Korea"
   employer         : "The National Assembly, Republic of Korea"
   uri              : # URL
