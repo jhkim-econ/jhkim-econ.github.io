@@ -53,17 +53,17 @@ You can download my full CV [here](../files/Junghwan_Kim_CV.pdf).
 ### Professional Experience
 
 - **Trade, Industry, Energy, SMEs, and Startups Committee – National Assembly (2025)**  
-  Legislative Researcher Officer  
+  *Legislative Researcher Officer*    
   
 - **Special Committee on Budget and Accounts – National Assembly (2022–2024)**  
-  Senior Budget Analyst  
+  *Senior Budget Analyst*    
   
 - **National Assembly Budget Office (NABO) (2016-2022)**  
-  Senior Staff, Economic Analysis Department(2021-2022)  
-  Economic Analyst, Economic Analysis Department(2016-2018)
+  *Senior Staff*, Economic Analysis Department(2021-2022)  
+  *Economic Analyst*, Economic Analysis Department(2016-2018)
 
 - **Republic of Korea Army Headquarters (2018–2021)**  
-  Captain, Public Relations Officer
+  *Captain*, Public Relations Officer
   
 ---
 
