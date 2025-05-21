@@ -33,7 +33,7 @@ You can download my full CV [here](../files/Junghwan_Kim_CV.pdf).
 
 - **Labor Hour Spillovers and Crowd-out of Educational Spending: Evidence from Korea’s Work Hour Reform**  
   _Working Paper_  
-  Estimated inter-firm spillover effects of labor hours using IV techniques with panel data
+  Estimated inter-firm spillover effects of labor hours using IV techniques with panel data  
   Developed an overlapping generations model to analyze implications for fertility and educational spending
   
 - **Potential Risks from COVID-19 Responses and Liquidity Expansion**  
@@ -42,7 +42,7 @@ You can download my full CV [here](../files/Junghwan_Kim_CV.pdf).
   
 - **Disaster Insurance Implementation and Financial Management Analysis**  
   _Solo-authored; Published in NABO Policy Report, 2017_  
-  Applied expectation maximization and logistic regression to assess reinsurance soundness and distributional impacts. Cited in major academic and policy publications
+  Applied expectation maximization and logistic regression to assess reinsurance soundness and distributional impacts
 
 - **Employment Conditions in Small and Medium-Sized Cities**  
   _Solo-authored; Published in NABO Industrial Trends & Issues, 2018_  
@@ -52,17 +52,17 @@ You can download my full CV [here](../files/Junghwan_Kim_CV.pdf).
 
 ### Professional Experience
 
-- **Trade, Industry, Energy, SMEs, and Startups Committee – National Assembly (2025)**
+- **Trade, Industry, Energy, SMEs, and Startups Committee – National Assembly (2025)**  
   Legislative Researcher Officer  
   
-- **Special Committee on Budget and Accounts – National Assembly (2022–2024)**
+- **Special Committee on Budget and Accounts – National Assembly (2022–2024)**  
   Senior Budget Analyst  
   
-- **National Assembly Budget Office (NABO) (2016-2022)**
+- **National Assembly Budget Office (NABO) (2016-2022)**  
   Senior Staff, Economic Analysis Department(2021-2022)  
   Economic Analyst, Economic Analysis Department(2016-2018)
 
-- **Republic of Korea Army Headquarters (2018–2021)**
+- **Republic of Korea Army Headquarters (2018–2021)**  
   Captain, Public Relations Officer
   
 ---
