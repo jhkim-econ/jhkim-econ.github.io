@@ -41,11 +41,11 @@ You can download my full CV [here](../files/Junghwan_Kim_CV.pdf).
   Conducted comparative analysis of fiscal policy responses across countries
   
 - **Disaster Insurance Implementation and Financial Management Analysis**  
-  _Solo-authored; Published in NABO Policy Report, 2017_  
+  _Solo-authored; Published in **NABO Policy Report**, 2017_  
   Applied expectation maximization and logistic regression to assess reinsurance soundness and distributional impacts
 
 - **Employment Conditions in Small and Medium-Sized Cities**  
-  _Solo-authored; Published in NABO Industrial Trends & Issues, 2018_  
+  _Solo-authored; Published in **NABO Industrial Trends & Issues**, 2018_  
   Used a linear probability model to assess employment disparities across urban growth dynamics
 
 ---
