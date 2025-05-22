@@ -19,14 +19,8 @@ I served as a Legislative Research Officer at the [National Assembly Budget Offi
 ---
 
 ### Research Interests
-- Labor Economics & Structural Reforms    
-- Applied Microeconomics
-
----
-
-### Working Paper
-**Labor Hour Spillovers and Crowd-out of Educational Spending**   
-[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5214642) 
+- Labor economics with emphasis on structural shifts in industries and demographic change    
+- Public finance in relation to market-oriented instruments
 
 ---
 
