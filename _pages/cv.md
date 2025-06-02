@@ -48,6 +48,11 @@ You can download my full CV [here](../files/Junghwan_Kim_CV.pdf).
   _Solo-authored; Published in **NABO Industrial Trends & Issues**, 2018_  
   Used a linear probability model to assess employment disparities across urban growth dynamics
 
+- **Selected Publications – Special Committee on Budget and Accounts, National Assembly of the Republic of Korea**  
+  _Solo-authored official policy reports_  
+  • Structural Bias in Evaluating the Economic Validity of Build-Transfer-Lease (BTL) Programs. 2025 Annual Budget Review, Nov 2024  
+  •  Policy Implications of the Government’s Preference for Interest Subsidies over Direct Loans. 2023 Program Implementation Review, Aug 2024 
+
 ---
 
 ### Professional Experience
@@ -65,13 +70,6 @@ You can download my full CV [here](../files/Junghwan_Kim_CV.pdf).
 - **Republic of Korea Army Headquarters (2018–2021)**  
   *Captain*, Public Relations Officer
   
----
-
-### Selected Budget and Policy Reviews
-
-- *Structural Bias in Evaluating the Economic Validity of Build-Transfer-Lease Programs*, **2025 Annual Budget Review**, Nov 2024
-- *Policy Implications of the Government’s Preference for Interest Subsidies over Direct Loans*, **2023 Program Implementation Review**, Aug 2024
-
 ---
 
 ### Honors
