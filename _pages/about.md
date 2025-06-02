@@ -17,7 +17,7 @@ After completing a B.A. in Economics and Business Administration at Seoul Nation
 
 At NABO, I led evaluations of budget programs and conducted economic analyses of structural challenges in collaboration with PhD-level economists. As a senior analyst for the Special Committee on Budget and Accounts, I authored independent reports on public finance, with a focus on budget oversight and moral hazard in policy implementation.
 
-In 2025, my primary motivation lies in advancing independent economic inquiry, even in the absence of institutional affiliation, as evidenced by the working papers currently in progress. 
+In 2025, my foremost motivation in 2025 is to advance independent economic inquiry beyond institutional boundaries, as reflected in the working papers currently in progress.
 
 ---
 
