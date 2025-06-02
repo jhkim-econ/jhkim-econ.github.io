@@ -11,7 +11,11 @@ redirect_from:
 
 ## Hello! I'm Junghwan Kim  
 
-I’m a legislative research officer at the National Assembly of South Korea with a decade of experience in economic analysis and policy evaluation. I previously served as an economic analyst at the [National Assembly Budget Office (NABO)](https://korea.nabo.go.kr/naboEng/main/main.do), Korea’s premier nonpartisan fiscal research institution.
+I’m a legislative research officer at the National Assembly of South Korea with a decade of experience in economic analysis and policy evaluation.  
+
+After completing a B.A. in Economics and Business Administration at Seoul National University, I served as an economic analyst at the [National Assembly Budget Office (NABO)](https://korea.nabo.go.kr/naboEng/main/main.do), Korea’s leading nonpartisan institution for fiscal policy research and economic analysis.  
+
+There, I collaborated with PhD-level economists to lead evaluations of budget programs and regulatory interventions. This experience deepened my interest in linking empirical evidence with institutional context to better understand the structural forces that shape economic policy and household decision-making.
 
 ---
 
