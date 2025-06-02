@@ -13,9 +13,11 @@ redirect_from:
 
 I’m a legislative research officer at the National Assembly of South Korea with a decade of experience in economic analysis and policy evaluation.  
 
-After completing a B.A. in Economics and Business Administration at Seoul National University, I served as an economic analyst at the [National Assembly Budget Office (NABO)](https://korea.nabo.go.kr/naboEng/main/main.do), Korea’s leading nonpartisan institution for fiscal policy research and economic analysis.  
+After completing a B.A. in Economics and Business Administration at Seoul National University, I served as an economic analyst at the [National Assembly Budget Office (NABO)](https://korea.nabo.go.kr/naboEng/main/main.do), Korea’s leading nonpartisan institution for fiscal policy research and economic analysis. 
 
-There, I collaborated with PhD-level economists to lead evaluations of budget programs and regulatory interventions. This experience deepened my interest in linking empirical evidence with institutional context to better understand the structural forces that shape economic policy and household decision-making.
+At NABO, I collaborated with PhD-level economists to lead evaluations of budget programs and conduct economic analyses of COVID-19 responses and other structural challenges. Later, as a senior budget analyst for the Special Committee on Budget and Accounts, I produced independent research reports on salient issues in public finance, with a particular focus on budget oversight and moral hazard in policy implementation.  
+
+In 2025, my primary motivation lies in advancing independent economic inquiry, even in the absence of institutional affiliation, as evidenced by the working papers currently in progress. 
 
 ---
 
