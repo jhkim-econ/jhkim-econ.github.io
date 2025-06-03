@@ -11,13 +11,13 @@ redirect_from:
 
 ## Hello! I'm Junghwan Kim  
 
-I’m a legislative research officer at the National Assembly of South Korea with a decade of experience in economic analysis and policy evaluation.  
+I am a Legislative Research Officer at the National Assembly of South Korea with over a decade of experience in economic policy analysis, budget program evaluation, and fiscal oversight. My work has consistently focused on ensuring transparency, accountability, and analytical rigor in public finance.
 
-After completing a B.A. in Economics and Business Administration at Seoul National University, I served as an economic analyst at the [National Assembly Budget Office (NABO)](https://korea.nabo.go.kr/naboEng/main/main.do), Korea’s leading nonpartisan institution for fiscal policy research and economic analysis. 
+While earning a B.A. in Economics and Business Administration from Seoul National University, I sought a deeper understanding of how economic and fiscal policies are shaped within government institutions. Motivated by this interest, I successfully passed the National Legislative Civil Service Examination, one of South Korea’s most competitive public service entry routes. This achievement granted me entry into the [National Assembly Budget Office (NABO)](https://korea.nabo.go.kr/naboEng/main/main.do), Korea’s premier nonpartisan institution for fiscal policy research, where I began collaborating directly with PhD-level economists at the outset of my career.
 
-At NABO, I led evaluations of budget programs and conducted economic analyses of structural challenges in collaboration with PhD-level economists. As a senior analyst for the Special Committee on Budget and Accounts, I authored independent reports on public finance, with a focus on budget oversight and moral hazard in policy implementation.
+At NABO, I led economic evaluations of large-scale government programs and analyzed structural challenges in the economy. As a senior analyst for the Special Committee on Budget and Accounts, I authored a range of independent reports addressing critical issues such as moral hazard in policy implementation, budget oversight, and long-term fiscal sustainability. My experience at the intersection of legislative research and applied economic analysis has shaped my commitment to evidence-based policymaking.
 
-In 2025, my foremost motivation in 2025 is to advance independent economic inquiry beyond institutional boundaries, as reflected in the working papers currently in progress.
+In 2025, I remain committed to advancing independent economic inquiry beyond institutional boundaries, as reflected in the working papers currently underway.
 
 ---
 
