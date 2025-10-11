@@ -4,8 +4,8 @@ title: "Research"
 author_profile: true
 ---
 
-### Working Papers
-#### **Pricing Redistribution: Optimal Income Taxation with a Fair-Pricing Constraint**  
+## Working Papers
+### **Pricing Redistribution: Optimal Income Taxation with a Fair-Pricing Constraint**  
 *Working Paper in Progress, 2025*  
 [View on SSRN →](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5589992)
 
@@ -21,7 +21,7 @@ I analyze a two-bracket system combining a wage subsidy and a proportional tax, 
 
 ---
 
-#### **Labor Hour Spillovers and Educational Spending: Evidence from Korea’s Work-Hour Reform**  
+### **Labor Hour Spillovers and Educational Spending: Evidence from Korea’s Work-Hour Reform**  
 *Working Paper in Progress, 2025*  
 [View on SSRN →](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5214642)
 
@@ -31,7 +31,7 @@ Using panel data, I identify a spillover effect: reductions in working hours at 
 
 ---
 
-### Publications in NABO(National Assembly Budget Office, Republic of Korea)
+## Publications in NABO(National Assembly Budget Office, Republic of Korea)
 
 - **Potential Risks from COVID-19 Responses and Liquidity Expansion**  
 _With Jin Ick (NABO), et al.; published in 2021_  
