@@ -29,4 +29,4 @@ In 2025, I remain committed to advancing independent economic inquiry, as reflec
 
 ### Contact
 Address: The National Assembly, Main Bld., 1 Uisadang-daero, Seoul, Republic of Korea 07233  
-Email: na32@assembly.go.kr | sjhnu32@snu.ac.kr 
+Email: jh.kim.assembly@gmail.com | na32@assembly.go.kr | sjhnu32@snu.ac.kr 
