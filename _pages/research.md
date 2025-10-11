@@ -5,11 +5,17 @@ author_profile: true
 ---
 
 ### Working Papers
+- **Pricing Redistribution: Optimal Income Taxation with a Fair-Pricing Constraint**  
+_Working Paper, 2025_  
+[View Paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5589992)
+This paper incorporates the no-arbitrage condition from financial economics into the design of optimal income taxation. Workers diversify wage risk through institutional and contractual arrangements such as unemployment insurance, employer-sponsored pensions, wage compression, and intra-household transfers. Under the veil of ignorance, these mechanisms imply a complete market for wage-risk options in which government redistribution must satisfy a no-arbitrage constraint. I analyze a two-bracket system combining a wage subsidy and a proportional tax, where the optimal upper-bracket rate depends on the elasticity of the tax base and the marginal social welfare weights of lower-income groups. Extending the framework to a continuous schedule introduces a correction term to the standard sufficient-statistics formula, raising optimal marginal tax rates in proportion to the wedge between average and marginal rates. Simulations under a lognormal skill distribution show that enforcing the fair-pricing constraint flattens or even inverts conventional rate profiles, consistent with the empirically observed tendency toward flatter rate schedules in major economies.
+
+Prominent figures are attached as below. 
 
 - **Labor Hour Spillovers and Educational Spending: Evidence from Korea's Work Hour Reform**  
 _Working Paper, 2025_  
 [View Paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5214642)  
-This paper studies how labor hour regulations create firm-level spillovers that indirectly affect household educational investments, using panel data from Korea’s 52-hour workweek reform.
+In 2018, the South Korean government implemented a 52-hour workweek limit, initially targeting large enterprises with 300 or more employees, to curb excessive working hours. This policy creates a quasi-natural experiment by introducing exogenous variation in labor hours among employees in large firms, which in turn may influence workers in small and medium-sized enterprises (SMEs) to adjust their labor supply and household behavior in response to industry-wide norms. Using panel data, I identify a spillover effect: reductions in working hours at large firms indirectly lead to lower labor hours among SME employees. This reduction in labor hours also leads to crowding-out of household educational spending. Building on this empirical insight, I develop a general equilibrium overlapping generations model that incorporates both spillover and crowd-out mechanisms. The model demonstrates that prolonged working hours, driven by spillover effects, constrain fertility choices and lead to excessive educational spending in the broader economy.
 
 ---
 
