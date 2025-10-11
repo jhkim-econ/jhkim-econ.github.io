@@ -5,17 +5,29 @@ author_profile: true
 ---
 
 ### Working Papers
-- **Pricing Redistribution: Optimal Income Taxation with a Fair-Pricing Constraint**  
-_Working Paper in Progress, 2025_  
-[View Paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5589992)
-This paper incorporates the no-arbitrage condition from financial economics into the design of optimal income taxation. Workers diversify wage risk through institutional and contractual arrangements such as unemployment insurance, employer-sponsored pensions, wage compression, and intra-household transfers. Under the veil of ignorance, these mechanisms imply a complete market for wage-risk options in which government redistribution must satisfy a no-arbitrage constraint. I analyze a two-bracket system combining a wage subsidy and a proportional tax, where the optimal upper-bracket rate depends on the elasticity of the tax base and the marginal social welfare weights of lower-income groups. Extending the framework to a continuous schedule introduces a correction term to the standard sufficient-statistics formula, raising optimal marginal tax rates in proportion to the wedge between average and marginal rates. Simulations under a lognormal skill distribution show that enforcing the fair-pricing constraint flattens or even inverts conventional rate profiles, consistent with the empirically observed tendency toward flatter rate schedules in major economies.
+#### **Pricing Redistribution: Optimal Income Taxation with a Fair-Pricing Constraint**  
+*Working Paper in Progress, 2025*  
+[View on SSRN →](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5589992)
 
-Prominent figures are attached as below. 
+This paper incorporates the no-arbitrage condition from financial economics into the design of optimal income taxation. Workers diversify wage risk through institutional and contractual arrangements such as unemployment insurance, employer pensions, wage compression, and intra-household transfers. Under the veil of ignorance, these mechanisms imply a complete market for wage-risk options in which government redistribution must satisfy a no-arbitrage constraint.  
 
-- **Labor Hour Spillovers and Educational Spending: Evidence from Korea's Work Hour Reform**  
-_Working Paper in Progress, 2025_  
-[View Paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5214642)  
-In 2018, the South Korean government implemented a 52-hour workweek limit, initially targeting large enterprises with 300 or more employees, to curb excessive working hours. This policy creates a quasi-natural experiment by introducing exogenous variation in labor hours among employees in large firms, which in turn may influence workers in small and medium-sized enterprises (SMEs) to adjust their labor supply and household behavior in response to industry-wide norms. Using panel data, I identify a spillover effect: reductions in working hours at large firms indirectly lead to lower labor hours among SME employees. This reduction in labor hours also leads to crowding-out of household educational spending. Building on this empirical insight, I develop a general equilibrium overlapping generations model that incorporates both spillover and crowd-out mechanisms. The model demonstrates that prolonged working hours, driven by spillover effects, constrain fertility choices and lead to excessive educational spending in the broader economy.
+I analyze a two-bracket system combining a wage subsidy and a proportional tax, where the optimal upper-bracket rate depends on the elasticity of the tax base and the marginal social welfare weights of lower-income groups. Extending the framework to a continuous schedule introduces a correction term to the standard sufficient-statistics formula, raising optimal marginal tax rates in proportion to the wedge between average and marginal rates. Simulations under a lognormal skill distribution show that enforcing the fair-pricing constraint flattens—or even inverts—the conventional downward-sloping profile of optimal marginal tax rates, consistent with the empirically observed tendency toward flatter rate schedules in major economies.
+
+**Figures**  
+- *Figure 1.* Wedge between simulated average and marginal tax schedules before introducing the no-arbitrage condition.  
+  `assets/tax_two_panels_nfdenom_trimmed_observed.pdf`  
+- *Figure 2.* Simulated marginal tax schedules under varying values of λ. As λ increases from 0 to 2 (Panels B–D), the schedule becomes progressively flatter and eventually exhibits a mildly inverted U-shape, indicating that the fair-pricing constraint counteracts the downward slope predicted by the lognormal skill distribution in the standard Mirrlees formulation. The magnitude of this flattening depends on the shadow value λ, which scales the correction term Θₙ linking average and marginal taxation.  
+  `assets/marginal_tax_2x2_panels.pdf`
+
+---
+
+#### **Labor Hour Spillovers and Educational Spending: Evidence from Korea’s Work-Hour Reform**  
+*Working Paper in Progress, 2025*  
+[View on SSRN →](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5214642)
+
+In 2018, the South Korean government implemented a 52-hour work-week limit—initially targeting large enterprises with 300 or more employees—to curb excessive working hours. This policy provides a quasi-natural experiment introducing exogenous variation in labor hours among large-firm employees, which in turn influences workers in small and medium-sized enterprises (SMEs) to adjust their labor supply and household behavior in response to new industry-wide norms.  
+
+Using panel data, I identify a spillover effect: reductions in working hours at large firms indirectly reduce labor hours among SME employees. This contraction in labor supply also crowds out household educational spending. Building on this empirical finding, I develop a general-equilibrium overlapping-generations model that incorporates both spillover and crowd-out mechanisms. The model demonstrates that prolonged working hours, driven by spillover effects, constrain fertility choices and lead to excessive educational investment in the broader economy.
 
 ---
 
