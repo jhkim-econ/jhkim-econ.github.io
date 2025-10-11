@@ -15,10 +15,10 @@ I analyze a two-bracket system combining a wage subsidy and a proportional tax, 
 
 **Figures**  
 - *Figure 1.* Wedge between simulated average and marginal tax schedules before introducing the no-arbitrage condition.  
-  `assets/tax_two_panels_nfdenom_trimmed_observed.pdf`  
+  ![Figure Preview] (assets/1by2.png)  
 - *Figure 2.* Simulated marginal tax schedules under varying values of λ. As λ increases from 0 to 2 (Panels B–D), the schedule becomes progressively flatter and eventually exhibits a mildly inverted U-shape, indicating that the fair-pricing constraint counteracts the downward slope predicted by the lognormal skill distribution in the standard Mirrlees formulation. The magnitude of this flattening depends on the shadow value λ, which scales the correction term Θₙ linking average and marginal taxation.  
-  `assets/marginal_tax_2x2_panels.pdf`
-
+  ![Figure Preview] (assets/2by2.png)
+  
 ---
 
 ### **Labor Hour Spillovers and Educational Spending: Evidence from Korea’s Work-Hour Reform**  
