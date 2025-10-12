@@ -38,8 +38,9 @@ You can download my full CV [here](../files/Junghwan_Kim_CV.pdf).
 
 - **Pricing Redistribution: Optimal Income Taxation with a Fair-Pricing Constraint**  
   _Working Paper_  
-  Integrated a fair-pricing constraint into the standard Mirrlees optimal taxation framework, deriving conditions under which the optimal marginal income tax schedule flattens 
-  Performed numerical simulations demonstrating an upward-sloping, inverted U-shaped marginal tax rate profile, even under a lognormal skill distribution
+  Integrated a fair-pricing constraint into the standard Mirrlees optimal taxation framework, deriving conditions under which the optimal marginal income tax schedule flattens.  
+  
+  Performed numerical simulations demonstrating an upward-sloping, inverted U-shaped marginal tax rate profile, even under a lognormal skill distribution.  
   
 - **Potential Risks from COVID-19 Responses and Liquidity Expansion**  
   _With Jin Ick (NABO) et al.; Published in 2021_  
