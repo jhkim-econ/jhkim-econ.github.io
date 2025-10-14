@@ -31,35 +31,39 @@ In 2018, the South Korean government implemented a 52-hour work-week limit—ini
 Using panel data, I identify a spillover effect: reductions in working hours at large firms indirectly reduce labor hours among SME employees. This contraction in labor supply also crowds out household educational spending. Building on this empirical finding, I develop a general-equilibrium overlapping-generations model that incorporates both spillover and crowd-out mechanisms. The model demonstrates that prolonged working hours, driven by spillover effects, constrain fertility choices and lead to excessive educational investment in the broader economy.
 
 ---
+## Publications in NABO (National Assembly Budget Office, Republic of Korea)
 
-## Publications in NABO(National Assembly Budget Office, Republic of Korea)
+---
 
-- **Disaster Insurance Implementation and Financial Management Analysis**  
-_Solo-authored; published in NABO Policy Report 2017_
+### Disaster Insurance Implementation and Financial Management Analysis  
+**Solo-authored** · _Published in NABO Policy Report (2017)_  
 
-[View Translated Summary](../files/Disaster_Insurance.pdf)
+[View Translated Summary (PDF)](../files/Disaster_Insurance.pdf)  
+[View Full Paper (In Korean)](https://nabo.go.kr/system/common/JSPservlet/download.jsp?fCode=33314430&fSHC=&fName=%EC%9E%AC%EB%82%9C%EC%95%88%EC%A0%84%EA%B4%80%EB%A6%AC+%ED%98%84%ED%99%A9%EA%B3%BC+%EC%A3%BC%EC%9A%94%EB%8C%80%EC%B1%85+%EB%B6%84%EC%84%9D+5.%EC%9E%AC%EB%82%9C%EB%B3%B4%ED%97%98+%EC%9A%B4%EC%98%81%EC%8B%A4%ED%83%9C+%EC%9E%AC%EC%A0%95%EC%9A%B4%EC%9A%A9+%EB%B6%84%EC%84%9D.pdf&fMime=application/pdf&fBid=19&flag=bluenet)  
 
-[View Full Paper(In Korean)](https://nabo.go.kr/system/common/JSPservlet/download.jsp?fCode=33314430&fSHC=&fName=%EC%9E%AC%EB%82%9C%EC%95%88%EC%A0%84%EA%B4%80%EB%A6%AC+%ED%98%84%ED%99%A9%EA%B3%BC+%EC%A3%BC%EC%9A%94%EB%8C%80%EC%B1%85+%EB%B6%84%EC%84%9D+5.%EC%9E%AC%EB%82%9C%EB%B3%B4%ED%97%98+%EC%9A%B4%EC%98%81%EC%8B%A4%ED%83%9C+%EC%9E%AC%EC%A0%95%EC%9A%B4%EC%9A%A9+%EB%B6%84%EC%84%9D.pdf&fMime=application/pdf&fBid=19&flag=bluenet)   
+> Applied expectation–maximization algorithms and logistic regression models to assess the financial soundness of government reinsurance programs and the distributional equity of insurance benefits.
 
-Applied expectation maximization algorithms and logistic regression models to assess financial soundness of government reinsurance programs and distributional equity of insurance benefits.
+---
 
-- **Potential Risks from COVID-19 Responses and Liquidity Expansion**  
-_With Jin Ick (NABO), et al.; published in 2021_
+### Potential Risks from COVID-19 Responses and Liquidity Expansion  
+**With Jin Ick (NABO) et al.** · _Published in 2021_  
 
-[View Translated Summary](../files/Major_Countries.pdf)   
+[View Translated Summary (PDF)](../files/Major_Countries.pdf)  
+[View Full Paper (In Korean)](https://nabo.go.kr/system/common/JSPservlet/download.jsp?fCode=33316891&fSHC=&fName=2021%EB%85%84+%EC%A3%BC%EC%9A%94%EA%B5%AD+%EA%B2%BD%EC%A0%9C+%ED%98%84%ED%99%A9+%EB%B6%84%EC%84%9D.pdf&fMime=application/pdf&fBid=19&flag=bluenet)  
 
-[View Full Paper(In Korean)](https://nabo.go.kr/system/common/JSPservlet/download.jsp?fCode=33316891&fSHC=&fName=2021%EB%85%84+%EC%A3%BC%EC%9A%94%EA%B5%AD+%EA%B2%BD%EC%A0%9C+%ED%98%84%ED%99%A9+%EB%B6%84%EC%84%9D.pdf&fMime=application/pdf&fBid=19&flag=bluenet)    
+> Conducted a comparative analysis of fiscal policy responses across countries, forming part of a four-part policy research series on macro-financial stability.
 
-Conducted comparative analysis of fiscal policy responses across countries, included in a series of four distinct policy studies.
+---
 
-- **Employment Conditions in Small and Medium-Sized Cities**  
-_Solo-authored; published in NABO Industrial Trends & Issues (2018)_
+### Employment Conditions in Small and Medium-Sized Cities  
+**Solo-authored** · _Published in NABO Industrial Trends & Issues (2018)_  
 
-[View Translated Summary](../files/Employment_Conditions.pdf)  
+[View Translated Summary (PDF)](../files/Employment_Conditions.pdf)  
+[View Full Paper (In Korean)](https://nabo.go.kr/system/common/JSPservlet/download.jsp?fCode=33314781&fSHC=&fName=NABO+%EC%82%B0%EC%97%85%EB%8F%99%ED%96%A5+%26+%EC%9D%B4%EC%8A%88+%28%EC%A0%9C6%ED%98%B8%29.pdf&fMime=application/pdf&fBid=63&flag=bluenet)  
 
-[View Paper(In Korean)](https://nabo.go.kr/system/common/JSPservlet/download.jsp?fCode=33314781&fSHC=&fName=NABO+%EC%82%B0%EC%97%85%EB%8F%99%ED%96%A5+%26+%EC%9D%B4%EC%8A%88+%28%EC%A0%9C6%ED%98%B8%29.pdf&fMime=application/pdf&fBid=63&flag=bluenet)    
+> Used a linear probability model to examine disparities in employment conditions between growing and shrinking regional cities.
 
-Used a linear probability model to assess disparities in employment conditions between growing and shrinking cities
+---
 
 
 
