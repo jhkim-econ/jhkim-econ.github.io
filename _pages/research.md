@@ -33,8 +33,6 @@ Using panel data, I identify a spillover effect: reductions in working hours at 
 ---
 ## Publications in NABO (National Assembly Budget Office, Republic of Korea)
 
----
-
 ### Disaster Insurance Implementation and Financial Management Analysis  
 **Solo-authored** · _Published in NABO Policy Report (2017)_  
 
@@ -51,7 +49,7 @@ Using panel data, I identify a spillover effect: reductions in working hours at 
 [View Translated Summary (PDF)](../files/Major_Countries.pdf)  
 [View Full Paper (In Korean)](https://nabo.go.kr/system/common/JSPservlet/download.jsp?fCode=33316891&fSHC=&fName=2021%EB%85%84+%EC%A3%BC%EC%9A%94%EA%B5%AD+%EA%B2%BD%EC%A0%9C+%ED%98%84%ED%99%A9+%EB%B6%84%EC%84%9D.pdf&fMime=application/pdf&fBid=19&flag=bluenet)  
 
-> Conducted a comparative analysis of fiscal policy responses across countries, forming part of a four-part policy research series on macro-financial stability.
+> Conducted a comparative analysis of fiscal policy responses across countries.
 
 ---
 
