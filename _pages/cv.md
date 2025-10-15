@@ -34,7 +34,7 @@ Mar 2012 – Aug 2016
 
 **National Assembly Budget Office (NABO)**  
 *Senior Staff, Economic Analysis Department (2021–2022)*  
-*Economic Analyst, Economic Analysis Department (2016–2018)*  
+*Economic Analyst, Economic Analysis Department (2016–2022)*  
 
 **Republic of Korea Army Headquarters**  
 *Captain, Public Relations Officer*  
