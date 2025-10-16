@@ -6,6 +6,7 @@ author_profile: true
 
 You can download my full CV [here](../files/Junghwan_Kim_CV.pdf).
 
+<!--
 ---
 
 ## Education
@@ -88,4 +89,6 @@ Linear probability model on employment disparities across growing vs. shrinking 
 - **Youngest-ever qualifier**, National Legislative Civil Service Examination (2014; Top 0.4%)  
 
 ---
+-->
+
 
