@@ -7,10 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-
-
-## Hello! I'm Junghwan Kim  
-
 I am a Research Analyst at the National Assembly of the Republic of Korea, specializing in economic policy analysis and budget program evaluation. Over the past decade, I have worked at the intersection of legislative research and applied economics, contributing to evidence-based fiscal policymaking.
 
 I earned my B.A. in Economics and Business Administration from Seoul National University in 2016, graduating first in my class as valedictorian of the cohort. Seeking a deeper understanding of how economic and fiscal policies are shaped within government institutions, I sat for and passed the National Legislative Civil Service Examination—one of South Korea’s most competitive public service entry routes—which led to my appointment at  [National Assembly Budget Office (NABO)](https://korea.nabo.go.kr/naboEng/main/main.do), Korea’s premier nonpartisan fiscal institution. There, I began collaborating directly with PhD-trained economists from the outset of my career.
