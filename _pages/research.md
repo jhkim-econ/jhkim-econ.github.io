@@ -56,7 +56,7 @@ Using panel data, I identify a spillover effect: reductions in working hours at 
 ### Employment Conditions in Small and Medium-Sized Cities  
 **Solo-authored** · _Published in NABO Industrial Trends & Issues (2018)_  
 
-[View Translated Summary (PDF)](../files/Employment_Condition.pdf)  
+[View Translated Summary (PDF)](../files/Employment_Conditions.pdf)  
 [View Full Paper (In Korean)](https://nabo.go.kr/system/common/JSPservlet/download.jsp?fCode=33314781&fSHC=&fName=NABO+%EC%82%B0%EC%97%85%EB%8F%99%ED%96%A5+%26+%EC%9D%B4%EC%8A%88+%28%EC%A0%9C6%ED%98%B8%29.pdf&fMime=application/pdf&fBid=63&flag=bluenet)  
 
 > Used a linear probability model to examine disparities in employment conditions between growing and shrinking regional cities.
