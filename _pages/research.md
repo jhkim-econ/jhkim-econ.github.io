@@ -39,8 +39,8 @@ Using panel data from the _Korean Labor & Income Panel Study_, I identify a spil
 [View Translated Summary (PDF)](../files/Disaster_Insurance.pdf)  
 [View Full Paper (In Korean)](https://nabo.go.kr/system/common/JSPservlet/download.jsp?fCode=33314430&fSHC=&fName=%EC%9E%AC%EB%82%9C%EC%95%88%EC%A0%84%EA%B4%80%EB%A6%AC+%ED%98%84%ED%99%A9%EA%B3%BC+%EC%A3%BC%EC%9A%94%EB%8C%80%EC%B1%85+%EB%B6%84%EC%84%9D+5.%EC%9E%AC%EB%82%9C%EB%B3%B4%ED%97%98+%EC%9A%B4%EC%98%81%EC%8B%A4%ED%83%9C+%EC%9E%AC%EC%A0%95%EC%9A%B4%EC%9A%A9+%EB%B6%84%EC%84%9D.pdf&fMime=application/pdf&fBid=19&flag=bluenet)  
 
-> Applied logistic regression to the Farm and Fishery Household Survey to assess distributional impacts of disaster insurance programs.
-> Conducted simulation analyses fitting exponential and mixed-gamma distributions to historical loss ratios to estimate fiscal losses under an actuarially benevolent national reinsurance scheme.
+> - Applied logistic regression to the Farm and Fishery Household Survey to assess distributional impacts of disaster insurance programs.
+> - Conducted simulation analyses fitting exponential and mixed-gamma distributions to historical loss ratios to estimate fiscal losses under an actuarially benevolent national reinsurance scheme.
 
 ---
 
@@ -50,7 +50,7 @@ Using panel data from the _Korean Labor & Income Panel Study_, I identify a spil
 [View Translated Summary (PDF)](../files/Major_Countries.pdf)  
 [View Full Paper (In Korean)](https://nabo.go.kr/system/common/JSPservlet/download.jsp?fCode=33316891&fSHC=&fName=2021%EB%85%84+%EC%A3%BC%EC%9A%94%EA%B5%AD+%EA%B2%BD%EC%A0%9C+%ED%98%84%ED%99%A9+%EB%B6%84%EC%84%9D.pdf&fMime=application/pdf&fBid=19&flag=bluenet)  
 
-> Conducted a comparative analysis of fiscal policy responses across countries.
+> - Conducted a comparative analysis of fiscal policy responses across countries.
 
 ---
 
@@ -60,7 +60,7 @@ Using panel data from the _Korean Labor & Income Panel Study_, I identify a spil
 [View Translated Summary (PDF)](../files/Employment_Conditions.pdf)  
 [View Full Paper (In Korean)](https://nabo.go.kr/system/common/JSPservlet/download.jsp?fCode=33314781&fSHC=&fName=NABO+%EC%82%B0%EC%97%85%EB%8F%99%ED%96%A5+%26+%EC%9D%B4%EC%8A%88+%28%EC%A0%9C6%ED%98%B8%29.pdf&fMime=application/pdf&fBid=63&flag=bluenet)  
 
-> Applied linear probability and Heckman selection models using microdata from the Regional Employment Survey to analyze employment and wage disparities between population-growing and population-declining cities.
+> - Applied linear probability and Heckman selection models using microdata from the Regional Employment Survey to analyze employment and wage disparities between population-growing and population-declining cities.
 
 
 ---
