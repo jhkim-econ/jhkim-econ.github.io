@@ -4,7 +4,7 @@ title: "Research"
 author_profile: true
 ---
 
-## Working Papers
+## Independent Projects
 ### **Pricing Redistribution: Optimal Income Taxation with a Fair-Pricing Constraint**  
 *Working Paper in Progress, Oct 2025*  
 [View on SSRN →](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5589992)
