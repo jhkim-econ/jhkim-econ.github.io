@@ -6,7 +6,7 @@ author_profile: true
 
 ## Working Papers
 ### **Pricing Redistribution: Optimal Income Taxation with a Fair-Pricing Constraint**  
-*Working Paper in Progress, 2025*  
+*Working Paper in Progress, Oct 2025*  
 [View on SSRN →](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5589992)
 
 This paper incorporates the no-arbitrage condition from financial economics into the design of optimal income taxation. Workers diversify wage risk through institutional and contractual arrangements such as unemployment insurance, employer pensions, wage compression, and intra-household transfers. Under the veil of ignorance, these mechanisms imply a complete market for wage-risk options in which government redistribution must satisfy a no-arbitrage constraint.  
@@ -22,7 +22,7 @@ I analyze a two-bracket system combining a wage subsidy and a proportional tax, 
 ---
 
 ### **Labor Hour Spillovers and Educational Spending: Evidence from Korea’s Work-Hour Reform**  
-*Working Paper in Progress, 2025*    
+*Working Paper in Progress, Apr 2025*    
 
 [View on SSRN →](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5214642)  
 
