@@ -66,18 +66,18 @@ This contraction in labor supply also crowds out household educational spending.
 
 ## Table: Two-stage least squares estimation of educational spending
 
-|                                         | \multicolumn{4}{c}{**5–299 Employees**} |
-|-----------------------------------------|:---------:|:---------:|:---------:|:---------:|
-|                                         | (1)       | (2)       | (3)       | (4)       |
-| **β**                                   | -0.24**   | 0.12      | -0.05     | 0.24      |
-| **s.e.**                                | (0.11)    | (0.34)    | (0.04)    | (0.32)    |
-| **δ (`$\widehat{L}_{it} \times \text{Kids}$`)**      | 0.16***   | 0.12**    | --        | --        |
-| **s.e.**                                | (0.06)    | (0.05)    | --        | --        |
-| **δ (`$\widehat{L}_{it} \times \text{Kids}<6$`)**    | --        | --        | 0.14**    | 0.13*     |
-| **s.e.**                                | --        | --        | (0.06)    | (0.07)    |
-| **Time trend**                           | No        | Yes       | No        | Yes       |
-| **Observations**                         | 1,788     | 1,788     | 1,788     | 1,788     |
-| **First stage F-statistic**              | 233.5     | 58.9      | 122.0     | 71.8      |
+|                                         | 5–299 Employees |               |               |               |
+|-----------------------------------------|:---------------:|:-------------:|:-------------:|:-------------:|
+|                                         | (1)             | (2)           | (3)           | (4)           |
+| **β**                                   | -0.24**         | 0.12          | -0.05         | 0.24          |
+| **s.e.**                                | (0.11)          | (0.34)        | (0.04)        | (0.32)        |
+| **δ (L<sub>it</sub> × Kids)**           | 0.16***         | 0.12**        | --            | --            |
+| **s.e.**                                | (0.06)          | (0.05)        | --            | --            |
+| **δ (L<sub>it</sub> × Kids &lt; 6)**    | --              | --            | 0.14**        | 0.13*         |
+| **s.e.**                                | --              | --            | (0.06)        | (0.07)        |
+| **Time trend**                          | No              | Yes           | No            | Yes           |
+| **Observations**                        | 1,788           | 1,788         | 1,788         | 1,788         |
+| **First stage F-statistic**             | 233.5           | 58.9          | 122.0         | 71.8          |
 
 **Notes:**  
 Estimated standard errors are cluster-robust, clustered at the industry level.  
@@ -85,6 +85,7 @@ The second-stage estimation includes all explanatory variables from the first st
 `***`, `**`, and `*` denote significance at the 1%, 5%, and 10% levels, respectively.  
 The joint F-statistic for the first-stage instruments, including the interaction term,  
 is reported for all model specifications.
+
 ---
 ## Publications in NABO (National Assembly Budget Office, Republic of Korea)
 
