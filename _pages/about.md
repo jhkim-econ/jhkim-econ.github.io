@@ -15,8 +15,8 @@ My experience bridging empirical analysis and legislative decision-making has sh
 
 
 ### Research Interests
-- Labor economics with emphasis on structural shifts in industries and demographic change    
-- Public finance in relation to market-oriented instruments
+- Labor economics with emphasis on structural shifts in industries and sustainability    
+- Public finance on focusing on the interplay between government interventions and private mechanisms
 
 ### Contact
 Address: The National Assembly, Main Bld., 1 Uisadang-daero, Seoul, Republic of Korea 07233  
