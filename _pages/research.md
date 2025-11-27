@@ -71,9 +71,9 @@ This contraction in labor supply also crowds out household educational spending.
 |                                         | (1)       | (2)       | (3)       | (4)       |
 | **β**                                   | -0.24**   | 0.12      | -0.05     | 0.24      |
 | **s.e.**                                | (0.11)    | (0.34)    | (0.04)    | (0.32)    |
-| **δ ($\widehat{L}_{it} \times \text{Kids}$)**      | 0.16***   | 0.12**    | --        | --        |
+| **δ (`$\widehat{L}_{it} \times \text{Kids}$`)**      | 0.16***   | 0.12**    | --        | --        |
 | **s.e.**                                | (0.06)    | (0.05)    | --        | --        |
-| **δ ($\widehat{L}_{it} \times \text{Kids}<6$)**    | --        | --        | 0.14**    | 0.13*     |
+| **δ (`$\widehat{L}_{it} \times \text{Kids}<6$`)**    | --        | --        | 0.14**    | 0.13*     |
 | **s.e.**                                | --        | --        | (0.06)    | (0.07)    |
 | **Time trend**                           | No        | Yes       | No        | Yes       |
 | **Observations**                         | 1,788     | 1,788     | 1,788     | 1,788     |
@@ -85,8 +85,6 @@ The second-stage estimation includes all explanatory variables from the first st
 `***`, `**`, and `*` denote significance at the 1%, 5%, and 10% levels, respectively.  
 The joint F-statistic for the first-stage instruments, including the interaction term,  
 is reported for all model specifications.
-Building on this empirical finding, I develop a general-equilibrium overlapping-generations model that incorporates both spillover and crowd-out mechanisms. The model demonstrates that prolonged working hours, driven by spillover effects, constrain fertility choices and lead to excessive educational investment in the broader economy.
-
 ---
 ## Publications in NABO (National Assembly Budget Office, Republic of Korea)
 
