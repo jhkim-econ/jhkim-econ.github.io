@@ -44,7 +44,48 @@ Industry and job-type fixed effects correspond to the Korea Standard Industry Cl
 Control variables include age, age squared, education level, region fixed effects, spouse’s employment status, transfer income, the number of children, and the number of children under six.  
 `***`, `**`, and `*` denote significance at the 1%, 5%, and 10% levels, respectively.
 
-Using panel data from the _Korean Labor & Income Panel Study_, I identify a spillover effect whereby reductions in working hours at large firms indirectly reduce labor hours among SME employees. This contraction in labor supply also crowds out household educational spending. Building on this empirical finding, I develop a general-equilibrium overlapping-generations model that incorporates both spillover and crowd-out mechanisms. The model demonstrates that prolonged working hours, driven by spillover effects, constrain fertility choices and lead to excessive educational investment in the broader economy.
+Using panel data from the _Korean Labor & Income Panel Study_, I identify a spillover effect whereby reductions in working hours at large firms indirectly reduce labor hours among SME employees. 
+
+## Table: Second-stage least squares estimation using an instrumental variable
+
+|                         | **50–299 Employees** |               | **5–49 Employees** |               |
+|-------------------------|-----------------------|---------------|---------------------|---------------|
+|                         | (1)                   | (2)           | (3)                 | (4)           |
+| **β**                   | 1.43***               | 1.17*         | 0.79***             | -0.15         |
+| **s.e.**                | (0.40)                | (0.86)        | (0.17)              | (0.71)        |
+| **Time trend**          | No                    | Yes           | No                  | Yes           |
+| **Observations**        | 1,380                 | 1,380         | 2,120               | 2,120         |
+
+**Notes:**  
+Estimated standard errors are cluster-robust, clustered at the industry level.  
+The second-stage estimation includes all explanatory variables from the first stage.  
+`***`, `**`, and `*` denote significance at the 1%, 5%, and 10% levels, respectively.  
+The F-statistic of the first-stage instrument is significant across all specifications.
+
+This contraction in labor supply also crowds out household educational spending. 
+
+## Table: Two-stage least squares estimation of educational spending
+
+|                                         | \multicolumn{4}{c}{**5–299 Employees**} |
+|-----------------------------------------|:---------:|:---------:|:---------:|:---------:|
+|                                         | (1)       | (2)       | (3)       | (4)       |
+| **β**                                   | -0.24**   | 0.12      | -0.05     | 0.24      |
+| **s.e.**                                | (0.11)    | (0.34)    | (0.04)    | (0.32)    |
+| **δ ($\widehat{L}_{it} \times \text{Kids}$)**      | 0.16***   | 0.12**    | --        | --        |
+| **s.e.**                                | (0.06)    | (0.05)    | --        | --        |
+| **δ ($\widehat{L}_{it} \times \text{Kids}<6$)**    | --        | --        | 0.14**    | 0.13*     |
+| **s.e.**                                | --        | --        | (0.06)    | (0.07)    |
+| **Time trend**                           | No        | Yes       | No        | Yes       |
+| **Observations**                         | 1,788     | 1,788     | 1,788     | 1,788     |
+| **First stage F-statistic**              | 233.5     | 58.9      | 122.0     | 71.8      |
+
+**Notes:**  
+Estimated standard errors are cluster-robust, clustered at the industry level.  
+The second-stage estimation includes all explanatory variables from the first stage.  
+`***`, `**`, and `*` denote significance at the 1%, 5%, and 10% levels, respectively.  
+The joint F-statistic for the first-stage instruments, including the interaction term,  
+is reported for all model specifications.
+Building on this empirical finding, I develop a general-equilibrium overlapping-generations model that incorporates both spillover and crowd-out mechanisms. The model demonstrates that prolonged working hours, driven by spillover effects, constrain fertility choices and lead to excessive educational investment in the broader economy.
 
 ---
 ## Publications in NABO (National Assembly Budget Office, Republic of Korea)
