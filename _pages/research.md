@@ -26,7 +26,7 @@ I analyze a two-bracket system combining a wage subsidy and a proportional tax, 
 
 [View on SSRN →](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5214642)  
 
-In 2018, the South Korean government implemented a 52-hour work-week limit—initially targeting large enterprises with 300 or more employees—to curb excessive working hours. This policy provides a quasi-natural experiment introducing exogenous variation in labor hours among large-firm employees, which in turn influences workers in small and medium-sized enterprises (SMEs) to adjust their labor supply and household behavior in response to new industry-wide norms.  
+In 2018, the South Korean government implemented a 52-hour work-week limit to curb excessive working hours, initially targeting large enterprises with 300 or more employees. This policy provides a quasi-natural experiment introducing exogenous variation in labor hours among large-firm employees, which in turn influences workers in small and medium-sized enterprises (SMEs) to adjust their labor supply and household behavior in response to new industry-wide norms.  
 
 Using panel data from the _Korean Labor & Income Panel Study_, I identify a spillover effect whereby reductions in working hours at large firms indirectly reduce labor hours among SME employees. This contraction in labor supply also crowds out household educational spending. Building on this empirical finding, I develop a general-equilibrium overlapping-generations model that incorporates both spillover and crowd-out mechanisms. The model demonstrates that prolonged working hours, driven by spillover effects, constrain fertility choices and lead to excessive educational investment in the broader economy.
 
