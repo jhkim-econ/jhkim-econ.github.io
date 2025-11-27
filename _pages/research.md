@@ -28,6 +28,22 @@ I analyze a two-bracket system combining a wage subsidy and a proportional tax, 
 
 In 2018, the South Korean government implemented a 52-hour work-week limit to curb excessive working hours, initially targeting large enterprises with 300 or more employees. This policy provides a quasi-natural experiment introducing exogenous variation in labor hours among large-firm employees, which in turn influences workers in small and medium-sized enterprises (SMEs) to adjust their labor supply and household behavior in response to new industry-wide norms.  
 
+## Table: First-stage estimation using an instrumental variable
+
+|                         | (1)        | (2)        | (3)        |
+|-------------------------|------------|------------|------------|
+| **β₀**                  | -2.74***   | -1.68*     | -1.90      |
+| **s.e.**                | (0.55)     | (0.67)     | (0.78)     |
+| **Time trend**          | No         | Yes        | No         |
+| **Time fixed effects**  | No         | No         | Yes        |
+| **Observations**        | \multicolumn{3}{c}{1,121} |
+
+**Notes:**  
+Estimated standard errors are cluster-robust, clustered at the industry level.  
+Industry and job-type fixed effects correspond to the Korea Standard Industry Classification (KSIC) and the Korea Standard Classification of Occupations (KSCO), respectively.  
+Control variables include age, age squared, education level, region fixed effects, spouse’s employment status, transfer income, the number of children, and the number of children under six.  
+`***`, `**`, and `*` denote significance at the 1%, 5%, and 10% levels, respectively.
+
 Using panel data from the _Korean Labor & Income Panel Study_, I identify a spillover effect whereby reductions in working hours at large firms indirectly reduce labor hours among SME employees. This contraction in labor supply also crowds out household educational spending. Building on this empirical finding, I develop a general-equilibrium overlapping-generations model that incorporates both spillover and crowd-out mechanisms. The model demonstrates that prolonged working hours, driven by spillover effects, constrain fertility choices and lead to excessive educational investment in the broader economy.
 
 ---
