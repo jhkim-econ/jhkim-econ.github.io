@@ -11,7 +11,7 @@ redirect_from:
 
 I am a Research Analyst at the National Assembly of the Republic of Korea, specializing in economic policy analysis and budget program evaluation. Over the past decade, I have worked at the intersection of legislative research and applied economics, contributing to evidence-based fiscal policymaking.
 
-My experience at the intersection of legislative research and applied economic analysis has shaped my commitment to pursuing more rigorous research in economics. In 2025, I am advancing this pursuit through ongoing working papers, two of which are introduced in the [Research Section](https://jhkim-econ.github.io/research/).
+My experience bridging legislative research and applied economic analysis has shaped my commitment to pursuing more rigorous research in economics. In 2025, I am advancing this pursuit through ongoing working papers, two of which are introduced in the [Research Section](https://jhkim-econ.github.io/research/).
 
 
 ### Research Interests
