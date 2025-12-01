@@ -8,7 +8,7 @@ author_profile: true
 ## **Pricing Redistribution: Optimal Income Taxation with a Fair-Pricing Constraint**  
 *Discussion Draft in Progress (Oct 2025)*  
 [**View on SSRN →**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5589992)
-
+ 
 This paper incorporates the no-arbitrage condition from financial economics into the design of optimal income taxation. Workers diversify wage risk through a variety of institutional and contractual arrangements, suggesting the presence of an implicit, complete market for wage-contingent claims under the veil of ignorance. I propose that a social planner’s redistribution scheme, which subsidizes or taxes portions of wages contingent on income level, can be interpreted analogously as an option contract uniquely tied one-to-one to each unit of labor supplied. 
 
 For this linkage between labor and redistribution to hold and to prevent arbitrage, the planner must impose a fair-pricing constraint on the redistribution claim, analogous to that in financial economics, to ensure internal consistency within a complete-market equilibrium. Within this framework, I first analyze a two-bracket system that combines a wage subsidy and a proportional tax and then extend the analysis to a continuous schedule. The continuous formulation yields a correction term to the standard sufficient-statistics formula, increasing optimal marginal tax rates in proportion to the wedge between average and marginal rates. 
