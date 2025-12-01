@@ -2,94 +2,16 @@
 permalink: /research/
 title: "Research"
 author_profile: true
-mathjax: true
 ---
-<!-- MathJax for LaTeX Rendering -->
-<script>
-MathJax = {
-  tex: {
-    inlineMath: [['$', '$'], ['\\(', '\\)']],
-    displayMath: [['$$','$$'], ['\\[','\\]']]
-  }
-};
-</script>
-<script type="text/javascript" id="MathJax-script" async
-  src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js">
-</script>
 
 # Independent Projects
 ## **Pricing Redistribution: Optimal Income Taxation with a Fair-Pricing Constraint**  
 *Working Paper in Progress (Oct 2025)*  
 [**View on SSRN →**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5589992)
 
-This paper incorporates the **no-arbitrage condition from financial economics** into the design of optimal income taxation. Workers diversify idiosyncratic wage risk through institutional and contractual arrangements, suggesting the presence of an implicit *complete market* for wage-contingent claims under the veil of ignorance.
+This paper incorporates the no-arbitrage condition from financial economics into the design of optimal income taxation. Workers diversify wage risk through institutional and contractual arrangements such as unemployment insurance, employer pensions, wage compression, and intra-household transfers. Under the veil of ignorance, these mechanisms imply a complete market for wage-risk options in which government redistribution must satisfy a no-arbitrage constraint.
 
-The planner’s redistribution scheme—subsidizing or taxing wages contingent on income—can be interpreted as an **option-like contingent claim** tied to each unit of labor. To prevent arbitrage, the planner must impose a **fair-pricing constraint**, ensuring internal consistency in a complete-market equilibrium.
-
----
-
-### **1. Fair-Pricing as a Per-Hour Tax Constraint**
-
-> #### **Lemma 1**
-> Let the per-hour tax rate be  
-> $$ t(n) = \frac{T(z_n)}{\ell_n}, $$
-> with \( t(n) \) twice continuously differentiable.
->
-> Let \( C(n) \) be the fair price of a European call option with strike \( n \).
->
-> If the tax schedule \( t_i(n) \) satisfies the fair-pricing constraint:
->
-> $$
-> \int_0^\infty t_i''(n)\, C(n)\, dn = M,
-> $$
->
-> equivalently,
->
-> $$
-> \int_0^\infty t_i(n)\, C''(n)\, dn = 0.
-> $$
-
----
-
-### **2. Optimal Marginal Tax Rate Under Fair-Pricing**
-
-Introducing the fair-pricing constraint into the Mirrlees Hamiltonian yields:
-
-$$
-\frac{\tau_n}{1-\tau_n}
-=
-\frac{A_n + \frac{q}{p}\,\Theta_n}{1 - \frac{q}{p}\,\Theta_n},
-$$
-
-where:
-
-$$
-A_n = \left(1+\frac{1}{e_n}\right)
-\frac{\int_{n}^{\infty} (1-\tilde g_m)\, dF(m)}{n f(n)},
-$$
-
-$$
-\tilde g_m = \frac{G'(u_m)}{p} - \frac{q}{p\,\ell_m},
-$$
-
-$$
-\Theta_n = \frac{\ell_n v'(\ell_n) - u_n - v(\ell_n)}{n\ell_n^{2}}.
-$$
-
-### **Special Case: Removing the Constraint (q = 0)**
-
-$$
-\frac{\tau_n}{1-\tau_n}
-=
-\left(1+\frac{1}{e_n}\right)
-\frac{\int_{n}^{\infty} (1-g_m)\, dF(m)}{n f(n)},
-$$
-
-which reduces to the **Diamond (1998)** formula.
-
----
-
-## **3. Simulation Results**
+I analyze a two-bracket system combining a wage subsidy and a proportional tax, showing that the optimal upper-bracket tax rate increases with the marginal social welfare weight placed on lower-income groups. Extending the framework to a continuous schedule introduces a correction term to the standard sufficient-statistics formula, raising optimal marginal tax rates in proportion to the wedge between average and marginal rates. Simulations under a lognormal skill distribution show that enforcing the fair-pricing constraint flattens—or even inverts—the conventional downward-sloping profile of optimal marginal tax rates, consistent with the empirically observed tendency toward flatter rate schedules in major economies.
 
 ### **Figure 1. Baseline Marginal Tax and Average–Marginal Wedge**
 
@@ -98,7 +20,6 @@ Panel B shows that removing the no-arbitrage constraint creates a correction ter
 
 ![Figure Preview](../assets/1by2.png)
 
----
 
 ### **Figure 2. Marginal Tax Schedules Under Increasing λ**
 
