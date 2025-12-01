@@ -2,7 +2,20 @@
 permalink: /research/
 title: "Research"
 author_profile: true
+mathjax: true
 ---
+<!-- MathJax for LaTeX Rendering -->
+<script>
+MathJax = {
+  tex: {
+    inlineMath: [['$', '$'], ['\\(', '\\)']],
+    displayMath: [['$$','$$'], ['\\[','\\]']]
+  }
+};
+</script>
+<script type="text/javascript" id="MathJax-script" async
+  src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js">
+</script>
 
 ## Independent Projects
 ### **Pricing Redistribution: Optimal Income Taxation with a Fair-Pricing Constraint**  
