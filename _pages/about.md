@@ -16,8 +16,8 @@ My experience bridging empirical analysis and legislative decision-making has sh
 
 ### Research Interests
 - Labor economics with emphasis on structural shifts in industries and sustainability    
-- Public finance on focusing on the interplay between government interventions and private mechanisms
+- Public finance focusing on the interplay between government interventions and private mechanisms
 
 ### Contact
-Address: The National Assembly, Main Bld., 1 Uisadang-daero, Seoul, Republic of Korea 07233  
-Email: jh.kim.assembly@gmail.com | na32@assembly.go.kr | sjhnu32@snu.ac.kr 
+Address: #715, Main Hall, National Assembly, 1 Uisadang-daero, Seoul, Republic of Korea 07233  
+Email: jh.kim.assembly@gmail.com | na32@assembly.go.kr
