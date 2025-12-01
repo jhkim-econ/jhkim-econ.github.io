@@ -18,97 +18,83 @@ MathJax = {
 </script>
 
 ## Independent Projects
-### **Pricing Redistribution: Optimal Income Taxation with a Fair-Pricing Constraint**  
-*Working Paper in Progress, Oct 2025*  
-[View on SSRN →](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5589992)
-This paper incorporates the **no-arbitrage condition from financial economics** into the design of optimal income taxation. Workers diversify idiosyncratic wage risk through a variety of institutional and contractual arrangements, suggesting the presence of an implicit *complete market* for wage-contingent claims under the veil of ignorance.
+## **Pricing Redistribution: Optimal Income Taxation with a Fair-Pricing Constraint**  
+*Working Paper in Progress (Oct 2025)*  
+[**View on SSRN →**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5589992)
 
-I propose that a social planner’s redistribution scheme—subsidizing or taxing portions of wages contingent on income—can be interpreted as an **option-like contingent claim** tied one-to-one to each unit of labor supplied. For this linkage to hold and to prevent arbitrage, the planner must impose a **fair-pricing constraint** on the redistribution claim, analogous to the no-arbitrage requirement in financial economics. This ensures internal consistency within a complete-market equilibrium.
+This paper incorporates the **no-arbitrage condition from financial economics** into the design of optimal income taxation. Workers diversify idiosyncratic wage risk through institutional and contractual arrangements, suggesting the presence of an implicit *complete market* for wage-contingent claims under the veil of ignorance.
 
-Within this framework, I begin with a two-bracket system (a wage subsidy plus proportional taxation) and then extend the analysis to a continuous tax schedule. The continuous formulation yields a **correction term** to the standard sufficient-statistics formula, increasing optimal marginal tax rates in proportion to the wedge between *average* and *marginal* rates.
+The planner’s redistribution scheme—subsidizing or taxing wages contingent on income—can be interpreted as an **option-like contingent claim** tied to each unit of labor. To prevent arbitrage, the planner must impose a **fair-pricing constraint**, ensuring internal consistency in a complete-market equilibrium.
 
 ---
 
-## **Fair-Pricing as a Per-Hour Tax Constraint**
-
-I first show that when the risk-free interest rate is zero, the fair-pricing condition can be expressed as an **equivalent constraint on the per-hour tax rate**.
+## **1. Fair-Pricing as a Per-Hour Tax Constraint**
 
 > ### **Lemma 1**
 > Let the per-hour tax rate be  
-> \( t(n) = T(z_n)/\ell_n \),  
+> $$ t(n) = \frac{T(z_n)}{\ell_n}, $$
 > with \( t(n) \) twice continuously differentiable.
 >
-> Let \( C(n) \) denote the fair price of a European call option with strike \(n\).
->  
-> If a tax schedule \( t_i(n) \) satisfies the fair-pricing constraint, then:
+> Let \( C(n) \) be the fair price of a European call option with strike \( n \).
 >
-> \[
+> If the tax schedule \( t_i(n) \) satisfies the fair-pricing constraint:
+>
+> $$
 > \int_0^\infty t_i''(n)\, C(n)\, dn = M,
-> \]
+> $$
 >
-> or equivalently,
+> equivalently,
 >
-> \[
+> $$
 > \int_0^\infty t_i(n)\, C''(n)\, dn = 0.
-> \]
+> $$
 
 ---
 
-## **Optimal Marginal Tax Rate Under Fair-Pricing**
+## **2. Optimal Marginal Tax Rate Under Fair-Pricing**
 
-Adding the fair-pricing constraint to the Mirrlees Hamiltonian yields:
+Introducing the fair-pricing constraint into the Mirrlees Hamiltonian yields:
 
-\[
+$$
 \frac{\tau_n}{1-\tau_n}
 =
 \frac{A_n + \frac{q}{p}\,\Theta_n}{1 - \frac{q}{p}\,\Theta_n},
-\]
+$$
 
-where
+where:
 
-\[
+$$
 A_n = \left(1+\frac{1}{e_n}\right)
 \frac{\int_{n}^{\infty} (1-\tilde g_m)\, dF(m)}{n f(n)},
-\]
+$$
 
-\[
+$$
 \tilde g_m = \frac{G'(u_m)}{p} - \frac{q}{p\,\ell_m},
-\]
+$$
 
-\[
-\Theta_n
-= \frac{\ell_n v'(\ell_n) - u_n - v(\ell_n)}{n\ell_n^{2}}.
-\]
+$$
+\Theta_n = \frac{\ell_n v'(\ell_n) - u_n - v(\ell_n)}{n\ell_n^{2}}.
+$$
 
-### **Special Case: Removing the Fair-Pricing Constraint (q = 0)**
+### **Special Case: Removing the Constraint (q = 0)**
 
-When the fair-pricing constraint is removed:
-
-\[
+$$
 \frac{\tau_n}{1-\tau_n}
 =
 \left(1+\frac{1}{e_n}\right)
 \frac{\int_{n}^{\infty} (1-g_m)\, dF(m)}{n f(n)},
-\]
+$$
 
-the classical **Diamond (1998)** formula.
+which reduces to the **Diamond (1998)** formula.
 
 ---
 
+## **3. Simulation Results**
 
-## **Key Simulation Results**
+### **Figure 1. Baseline Marginal Tax and Average–Marginal Wedge**
 
-Simulations under a log-normal skill distribution show that enforcing fair-pricing **flattens the optimal marginal tax schedule**, consistent with empirical tendencies toward flatter schedules in advanced economies.
-
-### **Figure 1. Average–Marginal Tax Gap Before Applying Fair-Pricing**
-
-Panel A shows the classical Mirrlees–Diamond result: marginal tax rates decline with income because the hazard ratio \((1-H)/(z h)\) is decreasing under a lognormal distribution.
-
-Panel B shows that **the no-arbitrage condition** introduces a pseudo(first order) correction term that is:
-- **negative** for low-income workers
-- **positive** for high-income workers  
-
-indicating that the traditional framework can over-tax low-income households relative to high-income ones.
+Panel A shows that marginal tax rates decline with income (Mirrlees 1971; Diamond 1998; Saez 2001).  
+Panel B shows that removing the no-arbitrage constraint creates a correction term—negative at low incomes and positive at high incomes.
 
 ![Figure Preview](../assets/1by2.png)
 
@@ -116,16 +102,15 @@ indicating that the traditional framework can over-tax low-income households rel
 
 ### **Figure 2. Marginal Tax Schedules Under Increasing λ**
 
-As the shadow value \( \lambda \) of the fair-pricing constraint increases from 0 to 2:
+As the shadow value \( \lambda \) rises from 0 to 2:
 
-- The marginal tax schedule becomes **progressively flatter**  
-- Eventually displays a mild **inverted U-shape**  
-- The magnitude of flattening depends on  
-  \(\lambda \cdot \Theta_n\),  
-  which links average and marginal taxation through the fair-pricing term
+- Marginal tax profiles flatten  
+- Eventually exhibit a mild inverted U-shape  
+- The effect is governed by \( \lambda \Theta_n \), linking average and marginal taxation  
 
 ![Figure Preview](../assets/2by2.png)
 
+---
 ---
 
 ### **Labor Hour Spillovers and Educational Spending: Evidence from Korea’s Work-Hour Reform**  
