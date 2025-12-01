@@ -6,32 +6,23 @@ author_profile: true
 
 # Independent Projects
 ## **Pricing Redistribution: Optimal Income Taxation with a Fair-Pricing Constraint**  
-*Working Paper in Progress (Oct 2025)*  
+*Discussion Draft in Progress (Oct 2025)*  
 [**View on SSRN →**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5589992)
 
-This paper incorporates the no-arbitrage condition from financial economics into the design of optimal income taxation. Workers diversify wage risk through institutional and contractual arrangements such as unemployment insurance, employer pensions, wage compression, and intra-household transfers. Under the veil of ignorance, these mechanisms imply a complete market for wage-risk options in which government redistribution must satisfy a no-arbitrage constraint.
+This paper incorporates the no-arbitrage condition from financial economics into the design of optimal income taxation. Workers diversify wage risk through institutional and contractual arrangements such as unemployment insurance, employer pensions, wage compression, and intra-household transfers. Under the veil of ignorance, these mechanisms imply a complete market for wage-risk options, in which government redistribution must satisfy a no-arbitrage constraint to avoid internally inconsistent incentives.
 
-I analyze a two-bracket system combining a wage subsidy and a proportional tax, showing that the optimal upper-bracket tax rate increases with the marginal social welfare weight placed on lower-income groups. Extending the framework to a continuous schedule introduces a correction term to the standard sufficient-statistics formula, raising optimal marginal tax rates in proportion to the wedge between average and marginal rates. Simulations under a lognormal skill distribution show that enforcing the fair-pricing constraint flattens—or even inverts—the conventional downward-sloping profile of optimal marginal tax rates, consistent with the empirically observed tendency toward flatter rate schedules in major economies.
+I first analyze a two-bracket system combining a wage subsidy and a proportional tax, showing that the optimal upper-bracket tax rate rises as the marginal social welfare weight placed on lower-income groups increases. Extending the framework to a continuous tax schedule introduces a correction term to the standard sufficient-statistics formula, raising optimal marginal tax rates in proportion to the wedge between average and marginal rates.
 
-### **Figure 1. Baseline Marginal Tax and Average–Marginal Wedge**
+Simulations under a lognormal skill distribution show that enforcing the fair-pricing constraint flattens—or even mildly inverts—the conventional downward-sloping profile of optimal marginal tax rates, consistent with empirically observed rate schedules in many advanced economies.
 
-Panel A shows that marginal tax rates decline with income (Mirrlees 1971; Diamond 1998; Saez 2001).  
-Panel B shows that removing the no-arbitrage constraint creates a correction term—negative at low incomes and positive at high incomes.
+## **Figures**
 
+> **Figure 1.** Wedge between simulated average and marginal tax schedules prior to imposing the no-arbitrage condition.  
 ![Figure Preview](../assets/1by2.png)
 
-
-### **Figure 2. Marginal Tax Schedules Under Increasing λ**
-
-As the shadow value \( \lambda \) rises from 0 to 2:
-
-- Marginal tax profiles flatten  
-- Eventually exhibit a mild inverted U-shape  
-- The effect is governed by \( \lambda \Theta_n \), linking average and marginal taxation  
-
+> **Figure 2.** Simulated marginal tax schedules under varying values of λ. As λ increases from 0 to 2 (Panels B–D), the schedules become progressively flatter and eventually exhibit a mild inverted U-shape. This reflects how the fair-pricing constraint counteracts the downward slope predicted by the lognormal skill distribution in the standard Mirrlees framework.
 ![Figure Preview](../assets/2by2.png)
 
----
 ---
 
 ### **Labor Hour Spillovers and Educational Spending: Evidence from Korea’s Work-Hour Reform**  
