@@ -12,7 +12,7 @@ site_theme               : "default"
 title                    : "Home"
 title_separator          : "-"
 name                     : &name "Junghwan Kim"
-description              : &description "Legislative Research Analyst | Labor Economics, Public Finance, Applied Microeconomics
+description              : &description "Legislative Research Analyst | Labor Economics, Public Finance, Applied Microeconomics"
 url                      : https://jhkim-econ.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "jhkim-econ/jhkim-econ.github.io"
@@ -28,7 +28,7 @@ author:
   location         : "Seoul, Republic of Korea"
   employer         : "The National Assembly, ROK"
   uri              : # URL
-  email            : "sjhnu32@snu.ac.kr" 
+  email            : "jh.kim.assembly@gmail.com" 
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
