@@ -10,10 +10,10 @@
 main:
   - title: "Research"
     url: /research/
-
-  - title: "Policy Reviews"
-    url: /year-archive/ 
-    
+  
   - title: "CV"
     url: /cv/
+    
+  - title: "Thoughts"
+    url: /year-archive/ 
   
