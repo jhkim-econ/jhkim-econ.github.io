@@ -17,10 +17,10 @@ Simulations under a log-normal skill distribution show that enforcing the fair-p
 
 ## **Figures**
 
-> **Figure 1.** Wedge between simulated average and marginal tax schedules prior to imposing the no-arbitrage condition.  
+> **Figure 1. Degree of the correction term under the baseline scenario.** Panel A illustrates the standard result: marginal tax rates fall with income under a lognormal skill distribution.
 ![Figure Preview](../assets/1by2.png)
 
-> **Figure 2.** Simulated marginal tax schedules under varying values of λ. As λ increases from 0 to 2 (Panels B–D), the schedules become progressively flatter and eventually exhibit a mild inverted U-shape. This reflects how the fair-pricing constraint counteracts the downward slope predicted by the lognormal skill distribution in the standard Mirrlees framework.
+> **Figure 2. Optimal marginal tax rate curves under different values of λ.** Simulated marginal tax schedules under varying values of λ. As λ increases from 0 to 2 (Panels B–D), the schedules become progressively flatter and eventually exhibit a mild inverted U-shape. This reflects how the fair-pricing constraint counteracts the downward slope predicted by the lognormal skill distribution in the standard Mirrlees framework.
 ![Figure Preview](../assets/2by2.png)
 
 ---
