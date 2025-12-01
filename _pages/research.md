@@ -17,7 +17,7 @@ MathJax = {
   src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js">
 </script>
 
-## Independent Projects
+# Independent Projects
 ## **Pricing Redistribution: Optimal Income Taxation with a Fair-Pricing Constraint**  
 *Working Paper in Progress (Oct 2025)*  
 [**View on SSRN →**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5589992)
@@ -28,9 +28,9 @@ The planner’s redistribution scheme—subsidizing or taxing wages contingent o
 
 ---
 
-## **1. Fair-Pricing as a Per-Hour Tax Constraint**
+### **1. Fair-Pricing as a Per-Hour Tax Constraint**
 
-> ### **Lemma 1**
+> #### **Lemma 1**
 > Let the per-hour tax rate be  
 > $$ t(n) = \frac{T(z_n)}{\ell_n}, $$
 > with \( t(n) \) twice continuously differentiable.
@@ -51,7 +51,7 @@ The planner’s redistribution scheme—subsidizing or taxing wages contingent o
 
 ---
 
-## **2. Optimal Marginal Tax Rate Under Fair-Pricing**
+### **2. Optimal Marginal Tax Rate Under Fair-Pricing**
 
 Introducing the fair-pricing constraint into the Mirrlees Hamiltonian yields:
 
