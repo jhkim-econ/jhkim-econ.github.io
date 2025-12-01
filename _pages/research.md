@@ -9,11 +9,11 @@ author_profile: true
 *Discussion Draft in Progress (Oct 2025)*  
 [**View on SSRN →**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5589992)
 
-This paper incorporates the no-arbitrage condition from financial economics into the design of optimal income taxation. Workers diversify wage risk through institutional and contractual arrangements such as unemployment insurance, employer pensions, wage compression, and intra-household transfers. Under the veil of ignorance, these mechanisms imply a complete market for wage-risk options, in which government redistribution must satisfy a no-arbitrage constraint to avoid internally inconsistent incentives.
+This paper incorporates the no-arbitrage condition from financial economics into the design of optimal income taxation. Workers diversify wage risk through a variety of institutional and contractual arrangements, suggesting the presence of an implicit, complete market for wage-contingent claims under the veil of ignorance. I propose that a social planner’s redistribution scheme, which subsidizes or taxes portions of wages contingent on income level, can be interpreted analogously as an option contract uniquely tied one-to-one to each unit of labor supplied. 
 
-I first analyze a two-bracket system combining a wage subsidy and a proportional tax, showing that the optimal upper-bracket tax rate rises as the marginal social welfare weight placed on lower-income groups increases. Extending the framework to a continuous tax schedule introduces a correction term to the standard sufficient-statistics formula, raising optimal marginal tax rates in proportion to the wedge between average and marginal rates.
+For this linkage between labor and redistribution to hold and to prevent arbitrage, the planner must impose a fair-pricing constraint on the redistribution claim, analogous to that in financial economics, to ensure internal consistency within a complete-market equilibrium. Within this framework, I first analyze a two-bracket system that combines a wage subsidy and a proportional tax and then extend the analysis to a continuous schedule. The continuous formulation yields a correction term to the standard sufficient-statistics formula, increasing optimal marginal tax rates in proportion to the wedge between average and marginal rates. 
 
-Simulations under a lognormal skill distribution show that enforcing the fair-pricing constraint flattens—or even mildly inverts—the conventional downward-sloping profile of optimal marginal tax rates, consistent with empirically observed rate schedules in many advanced economies.
+Simulations under a log-normal skill distribution show that enforcing the fair-pricing constraint flattens conventional marginal tax profiles, consistent with the empirically observed tendency toward flatter rate schedules in advanced economies.
 
 ## **Figures**
 
