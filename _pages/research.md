@@ -20,7 +20,7 @@ Assume quasi–linear preferences:
 $$
 U(c,\ell) = u(c) - v(\ell),
 \qquad
-u' > 0,\  u'' \le 0, 
+u' > 0,\  u'' \le 0,\
 v' > 0,\  v'' > 0.
 $$
 
