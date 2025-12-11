@@ -51,7 +51,7 @@ $$
 $$
 A_n =
 \left(1+\frac{1}{e_n}\right)
-\frac{\int_{n}^{\infty} (1-\tilde g_m)\, dF(m)}{n f(n)},
+\frac{\int_{n}^{\infty} (1-\tilde g_m)\ dF(m)}{n f(n)},
 $$
 
 $$
