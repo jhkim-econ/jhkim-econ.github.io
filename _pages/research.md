@@ -4,8 +4,7 @@ title: "Research"
 author_profile: true
 mathjax: true
 ---
-
-## **Pricing Redistribution: Optimal Income Taxation with a Fair-Pricing Constraint**  
+### **Pricing Redistribution: Optimal Income Taxation with a Fair-Pricing Constraint**  
 *Discussion Draft in Progress (Oct 2025)*  
 [**View on SSRN →**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5589992)
  
@@ -86,7 +85,7 @@ These findings show that overall, the absence of spillover pressure enables more
 ![Graphical Illustration Preview](../assets/graphic.png)
 
 ---
-## Publications in NABO (National Assembly Budget Office, Republic of Korea)
+# Publications in NABO (National Assembly Budget Office, Republic of Korea)
 
 ### Disaster Insurance Implementation and Financial Management Analysis  
 **Solo-authored**.  _Included as the fifth chapter in NABO Comprehensive Analysis on Disaster and Safety Management, 2017_  
