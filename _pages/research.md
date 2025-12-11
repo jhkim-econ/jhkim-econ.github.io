@@ -15,70 +15,71 @@ For this linkage between labor and redistribution to hold and to prevent arbitra
 
 Simulations under a log-normal skill distribution show that enforcing the fair-pricing constraint flattens conventional marginal tax profiles, consistent with the empirically observed tendency toward flatter rate schedules in advanced economies.
 
-# Proposition: Average Tax Formula with Fair-Pricing Constraint
+## Proposition: Average Tax Formula with Fair-Pricing Constraint
 
-**Proposition.**  
 Assume quasi–linear preferences  
 \( U(c,\ell)=u(c)-v(\ell) \)  
 with \(u'>0\), \(u''\le0\), \(v'>0\), and \(v''>0\).  
 
 Let types \(n\) be distributed on \((0,\infty)\) with density \(f(n)\).  
-Define individual earnings \( z_n \equiv n\ell_n \) and the marginal tax rate \( \tau_n \equiv T'(z_n) \).  
+Define individual earnings \( z_n = n\ell_n \) and the marginal tax rate \( \tau_n = T'(z_n) \).  
 
-Suppose the planner’s Hamiltonian augments the resource constraint (multiplier \(p>0\)) with a fair-pricing constraint following Lemma 1:
+Suppose the planner’s Hamiltonian augments the resource constraint (multiplier \(p>0\)) with a fair-pricing constraint:
 
-\[
-\int t(n) f(n)\, dn = K, 
+$$
+\int t(n) f(n)\, dn = K,
 \qquad 
-t(n) \equiv \frac{T(z_n)}{\ell_n},
-\]
+t(n) = \frac{T(z_n)}{\ell_n}.
+$$
 
-associated with a Lagrange multiplier \( q \in \mathbb{R} \).  
-
-Let \(e_n\) denote the compensated elasticity of earnings.  
-Under a zero risk-free interest rate (\(r=0\)), the risk-neutral and physical measures coincide, so that \( f_Q(n)=f(n) \).
+Let the associated Lagrange multiplier be \(q \in \mathbb{R}\), and let \(e_n\) denote the compensated elasticity of earnings.  
+When the risk-free interest rate is zero (\(r=0\)), the risk-neutral and physical measures coincide, so \(f_Q(n)=f(n)\).
 
 ---
 
-## Main result
+### **Main Result**
 
-\[
+$$
 \frac{\tau_n}{1-\tau_n}
 =
-\frac{A_n + \dfrac{q}{p}\,\Theta_n}{\,1-\dfrac{q}{p}\,\Theta_n\,},
-\]
+\frac{A_n + \frac{q}{p}\Theta_n}{1 - \frac{q}{p}\Theta_n}.
+$$
 
 where
 
-\[
-\tilde g_m \equiv \frac{G'(u_m)}{p} - \frac{q}{p\,\ell_m},
-\]
+$$
+\tilde g_m = \frac{G'(u_m)}{p} - \frac{q}{p\,\ell_m},
+$$
 
-\[
-A_n \equiv 
+$$
+A_n =
 \left(1+\frac{1}{e_n}\right)
-\frac{\displaystyle \int_{n}^{\infty} (1-\tilde g_m)\, dF(m)}{\displaystyle n f(n)},
-\]
+\frac{\int_{n}^{\infty} (1-\tilde g_m)\, dF(m)}{n f(n)},
+$$
 
-\[
-\Theta_n \equiv 
+$$
+\Theta_n =
 \frac{\ell_n v'(\ell_n) - u_n - v(\ell_n)}{n\ell_n^{2}}.
-\]
+$$
 
 ---
 
-## Special case: No fair-pricing constraint (\(q=0\))
+### **Special Case: No Fair-Pricing Constraint (\(q=0\))**
 
-When \(q=0\), the expression collapses to the Diamond (1998) formula:
+When \(q=0\), the formula reduces to Diamond (1998):
 
-\[
+$$
 \frac{\tau_n}{1-\tau_n}
 =
 \left(1+\frac{1}{e_n}\right)
-\frac{\displaystyle \int_{n}^{\infty} (1-g_m)\, dF(m)}{\displaystyle n f(n)},
-\qquad
-g_m \equiv \frac{G'(u_m)}{p}.
-\]
+\frac{\int_{n}^{\infty} (1-g_m)\, dF(m)}{n f(n)},
+$$
+
+with
+
+$$
+g_m = \frac{G'(u_m)}{p}.
+$$
 
 ---
 
