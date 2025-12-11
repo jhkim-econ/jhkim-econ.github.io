@@ -80,11 +80,12 @@ Simulations under a log-normal skill distribution show that enforcing the fair-p
 
 In 2018, the South Korean government implemented a 52-hour workweek limit to curb excessive working hours, initially targeting large enterprises with 300 or more employees. This policy provides a quasi-natural experiment introducing exogenous variation in labor hours among large-firm employees, which in turn influences workers in small and medium-sized enterprises (SMEs) to adjust their labor supply and household behavior in response to new industry-wide norms. I first estimate inter-firm spillover effects of labor-hour reductions and the crowd-out of educational spending through increased parental leisure, using instrumental-variable techniques with KLIPS panel data. Then, I develop an overlapping generations model to trace intergenerational mechanisms, showing that prolonged working hours driven by spillover effects constrain fertility choices and lead to excessive educational spending in the broader economy.
 
-These findings show that overall, the absence of spillover pressure enables more efficient time allocation and supports family formation. They also highlight the central role of leisure–education substitutability in mitigating inequality and limiting intergenerational persistence. The capacity to convert parental time into child human capital is a critical channel through which policy can ease disparities in family resources, curb inequality, and weaken the intergenerational transmission of socioeconomic disadvantage. 
+These findings show that overall, the absence of spillover pressure enables more efficient time allocation and supports family formation. They also highlight the central role of leisure–education substitutability in mitigating inequality and limiting intergenerational persistence. The capacity to convert parental time into child human capital is a critical channel through which policy can ease disparities in family resources and weaken the intergenerational transmission of socioeconomic disadvantage. 
 
 ![Graphical Illustration Preview](../assets/graphic.png)
 
 ---
+
 # Publications in NABO (National Assembly Budget Office, Republic of Korea)
 
 ### Disaster Insurance Implementation and Financial Management Analysis  
