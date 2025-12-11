@@ -59,8 +59,6 @@ $$
 g_m = \frac{G'(u_m)}{p}.
 $$
 
----
-
 Simulations under a log-normal skill distribution show that enforcing the fair-pricing constraint flattens conventional marginal tax profiles, consistent with the empirically observed tendency toward flatter rate schedules in advanced economies.
 
 ### **Figures**
@@ -100,7 +98,6 @@ These findings show that overall, the absence of spillover pressure enables more
 > - Applied logistic regression to the Farm and Fishery Household Survey to assess distributional impacts of disaster insurance programs.
 > - Conducted simulation analyses fitting exponential and mixed-gamma distributions to historical loss ratios to estimate fiscal losses under an actuarially benevolent national reinsurance scheme.
 
----
 
 ## Potential Risks from COVID-19 Responses and Liquidity Expansion  
 **With Ick Jin (NABO) et al.**. _Published as a standalone report, National Assembly Budget Office, 2021._  
@@ -108,9 +105,8 @@ These findings show that overall, the absence of spillover pressure enables more
 [View Translated Summary (PDF)](../files/Major_Countries.pdf)  
 [View Full Paper (In Korean)](https://nabo.go.kr/system/common/JSPservlet/download.jsp?fCode=33316891&fSHC=&fName=2021%EB%85%84+%EC%A3%BC%EC%9A%94%EA%B5%AD+%EA%B2%BD%EC%A0%9C+%ED%98%84%ED%99%A9+%EB%B6%84%EC%84%9D.pdf&fMime=application/pdf&fBid=19&flag=bluenet)  
 
-> - Conducted a comparative analysis of fiscal policy responses across countries.
+> - Led the comparative analysis of cross-country fiscal and liquidity responses, and directed the narrative design and ensured coherence.
 
----
 
 ## Employment Conditions in Small and Medium-Sized Cities  
 **Solo-authored**. _NABO Industrial Trends & Issues, Vol. 3, No. 6, 2018, pp.25–37._  
@@ -121,7 +117,6 @@ These findings show that overall, the absence of spillover pressure enables more
 > - Applied linear probability and Heckman selection models using microdata from the Regional Employment Survey to analyze employment and wage disparities between population-growing and population-declining cities.
 
 
----
 
 
 
