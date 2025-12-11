@@ -23,13 +23,14 @@ U(c,\ell) = u(c) - v(\ell),
 u' > 0,\  u'' \le 0,\ v' > 0,\  v'' > 0.
 $$
 
-Let types \( n \) be distributed on \( (0,\infty) \) with density \( f(n) \).
-Define individual earnings \( z_n = n \ell_n \) and the marginal tax rate \( \tau_n = T'(z_n) \).
-
-Suppose the planner’s Hamiltonian augments the resource constraint (multiplier \(p>0\)) with a fair-pricing constraint:
+$$
+\text{Let types } n \sim f(n) \text{ on } (0,\infty). \\
+\text{Define earnings } z_n = n\ell_n \text{ and the marginal tax rate } \tau_n = T'(z_n). \\
+\text{The planner’s Hamiltonian augments the resource constraint (multiplier } p>0 \text{) with a fair-pricing constraint.}
+$$
 
 $$
-\int t(n) f(n)\, dn = K,
+\int t(n) f(n)\ dn = K,
 \qquad 
 t(n) = \frac{T(z_n)}{\ell_n}.
 $$
