@@ -95,6 +95,9 @@ kramdown:
   input: GFM
   hard_wrap: false
   auto_ids: true
+  math_engine: mathjax
+  math_engine_opts:
+    preview: false
 
 # Collections
 collections: 
