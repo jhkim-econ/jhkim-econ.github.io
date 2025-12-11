@@ -45,11 +45,7 @@ $$
 
 **Special Case: No Fair-Pricing Constraint**
 
-When the fair-pricing constraint multiplier is set to zero:
-
-$$
-q = 0,
-$$ the formula reduces to Diamond (1998):
+When the fair-pricing constraint multiplier is set to zero $$ q = 0,$$ the formula reduces to Diamond (1998):
 
 $$
 \frac{\tau_n}{1-\tau_n}
