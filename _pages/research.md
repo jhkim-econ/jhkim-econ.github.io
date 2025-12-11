@@ -4,7 +4,7 @@ title: "Research"
 author_profile: true
 mathjax: true
 ---
-### **Pricing Redistribution: Optimal Income Taxation with a Fair-Pricing Constraint**  
+## **Pricing Redistribution: Optimal Income Taxation with a Fair-Pricing Constraint**  
 *Discussion Draft in Progress (Oct 2025)*  
 [**View on SSRN →**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5589992)
  
@@ -73,7 +73,7 @@ Simulations under a log-normal skill distribution show that enforcing the fair-p
 
 ---
 
-### **Labor Hour Spillovers and Educational Spending: Evidence from Korea’s Workweek Reform**  
+## **Labor Hour Spillovers and Educational Spending: Evidence from Korea’s Workweek Reform**  
 *Working Paper in Progress, Apr 2025*    
 
 [View on SSRN →](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5214642)  
@@ -85,10 +85,10 @@ These findings show that overall, the absence of spillover pressure enables more
 ![Graphical Illustration Preview](../assets/graphic.png)
 
 ---
-
+<br/>
 # Publications in NABO (National Assembly Budget Office, Republic of Korea)
-
-### Disaster Insurance Implementation and Financial Management Analysis  
+<br/>
+## Disaster Insurance Implementation and Financial Management Analysis  
 **Solo-authored**.  _Included as the fifth chapter in NABO Comprehensive Analysis on Disaster and Safety Management, 2017_  
 
 [View Translated Summary (PDF)](../files/Disaster_Insurance.pdf)  
@@ -99,7 +99,7 @@ These findings show that overall, the absence of spillover pressure enables more
 
 ---
 
-### Potential Risks from COVID-19 Responses and Liquidity Expansion  
+## Potential Risks from COVID-19 Responses and Liquidity Expansion  
 **With Ick Jin (NABO) et al.**. _Published as a standalone report, National Assembly Budget Office, 2021._  
 
 [View Translated Summary (PDF)](../files/Major_Countries.pdf)  
@@ -109,7 +109,7 @@ These findings show that overall, the absence of spillover pressure enables more
 
 ---
 
-### Employment Conditions in Small and Medium-Sized Cities  
+## Employment Conditions in Small and Medium-Sized Cities  
 **Solo-authored**. _NABO Industrial Trends & Issues, Vol. 3, No. 6, 2018, pp.25–37._  
 
 [View Translated Summary (PDF)](../files/Employment_Conditions.pdf)  
