@@ -13,35 +13,6 @@ This paper incorporates the no-arbitrage condition from financial economics into
 
 For this linkage between labor and redistribution to hold and to prevent arbitrage, the planner must impose a fair-pricing constraint on the redistribution claim, analogous to that in financial economics, to ensure internal consistency within a complete-market equilibrium. Within this framework, I first analyze a two-bracket system that combines a wage subsidy and a proportional tax and then extend the analysis to a continuous schedule. The continuous formulation yields a correction term to the standard sufficient-statistics formula, increasing optimal marginal tax rates in proportion to the wedge between average and marginal rates. 
 
-### Main Proposition: Average Tax Formula with Fair-Pricing Constraint
-
-Assume quasi–linear preferences:
-
-$$
-U(c,\ell) = u(c) - v(\ell),
-\qquad
-u' > 0,\  u'' \le 0,\ v' > 0,\  v'' > 0.
-$$
-
-$$
-\text{Let types } n \sim f(n) \text{ on } (0,\infty). \\
-\text{Define earnings } z_n = n\ell_n \text{ and the marginal tax rate } \tau_n = T'(z_n). 
-$$
-
-$$
-\text{The planner’s Hamiltonian augments the resource constraint (multiplier } p>0 \text{) with a fair-pricing constraint.}
-$$
-
-$$
-\int t(n) f(n)\ dn = K,
-\qquad 
-t(n) = \frac{T(z_n)}{\ell_n}.
-$$
-
-Let the associated Lagrange multiplier be \( q \in \mathbb{R} \), and let \( e_n \) denote the compensated elasticity of earnings.  
-When the risk-free interest rate is zero (\( r=0 \)), the risk-neutral and physical measures coincide: \( f_Q(n) = f(n) \).
-
-
 **Main Result**
 
 $$
@@ -67,9 +38,13 @@ $$
 \frac{\ell_n v'(\ell_n) - u_n - v(\ell_n)}{n\ell_n^{2}}=\frac{1}{\ell_n}\big(t^{\text{avg}}_n-\tau_n\big).
 $$
 
-**Special Case: No Fair-Pricing Constraint (\(q=0\))**
+**Special Case: No Fair-Pricing Constraint**
 
-When \(q=0\), the formula reduces to Diamond (1998):
+When the fair-pricing constraint multiplier is set to zero:
+
+$$
+q = 0,
+$$ the formula reduces to Diamond (1998):
 
 $$
 \frac{\tau_n}{1-\tau_n}
