@@ -85,9 +85,12 @@ These findings show that overall, the absence of spillover pressure enables more
 ![Graphical Illustration Preview](../assets/graphic.png)
 
 ---
-<br/>
+
+
+
 # Publications in NABO (National Assembly Budget Office, Republic of Korea)
-<br/>
+
+
 ## Disaster Insurance Implementation and Financial Management Analysis  
 **Solo-authored**.  _Included as the fifth chapter in NABO Comprehensive Analysis on Disaster and Safety Management, 2017_  
 
