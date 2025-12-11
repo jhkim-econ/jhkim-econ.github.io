@@ -25,7 +25,9 @@ $$
 
 $$
 \text{Let types } n \sim f(n) \text{ on } (0,\infty). \\
+
 \text{Define earnings } z_n = n\ell_n \text{ and the marginal tax rate } \tau_n = T'(z_n). \\
+
 \text{The planner’s Hamiltonian augments the resource constraint (multiplier } p>0 \text{) with a fair-pricing constraint.}
 $$
 
