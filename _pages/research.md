@@ -4,7 +4,7 @@ title: "Research"
 author_profile: true
 ---
 
-# Independent Projects
+## Independent Projects
 ## **Pricing Redistribution: Optimal Income Taxation with a Fair-Pricing Constraint**  
 *Discussion Draft in Progress (Oct 2025)*  
 [**View on SSRN →**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5589992)
@@ -14,6 +14,73 @@ This paper incorporates the no-arbitrage condition from financial economics into
 For this linkage between labor and redistribution to hold and to prevent arbitrage, the planner must impose a fair-pricing constraint on the redistribution claim, analogous to that in financial economics, to ensure internal consistency within a complete-market equilibrium. Within this framework, I first analyze a two-bracket system that combines a wage subsidy and a proportional tax and then extend the analysis to a continuous schedule. The continuous formulation yields a correction term to the standard sufficient-statistics formula, increasing optimal marginal tax rates in proportion to the wedge between average and marginal rates. 
 
 Simulations under a log-normal skill distribution show that enforcing the fair-pricing constraint flattens conventional marginal tax profiles, consistent with the empirically observed tendency toward flatter rate schedules in advanced economies.
+
+# Proposition: Average Tax Formula with Fair-Pricing Constraint
+
+**Proposition.**  
+Assume quasi–linear preferences  
+\( U(c,\ell)=u(c)-v(\ell) \)  
+with \(u'>0\), \(u''\le0\), \(v'>0\), and \(v''>0\).  
+
+Let types \(n\) be distributed on \((0,\infty)\) with density \(f(n)\).  
+Define individual earnings \( z_n \equiv n\ell_n \) and the marginal tax rate \( \tau_n \equiv T'(z_n) \).  
+
+Suppose the planner’s Hamiltonian augments the resource constraint (multiplier \(p>0\)) with a fair-pricing constraint following Lemma 1:
+
+\[
+\int t(n) f(n)\, dn = K, 
+\qquad 
+t(n) \equiv \frac{T(z_n)}{\ell_n},
+\]
+
+associated with a Lagrange multiplier \( q \in \mathbb{R} \).  
+
+Let \(e_n\) denote the compensated elasticity of earnings.  
+Under a zero risk-free interest rate (\(r=0\)), the risk-neutral and physical measures coincide, so that \( f_Q(n)=f(n) \).
+
+---
+
+## Main result
+
+\[
+\frac{\tau_n}{1-\tau_n}
+=
+\frac{A_n + \dfrac{q}{p}\,\Theta_n}{\,1-\dfrac{q}{p}\,\Theta_n\,},
+\]
+
+where
+
+\[
+\tilde g_m \equiv \frac{G'(u_m)}{p} - \frac{q}{p\,\ell_m},
+\]
+
+\[
+A_n \equiv 
+\left(1+\frac{1}{e_n}\right)
+\frac{\displaystyle \int_{n}^{\infty} (1-\tilde g_m)\, dF(m)}{\displaystyle n f(n)},
+\]
+
+\[
+\Theta_n \equiv 
+\frac{\ell_n v'(\ell_n) - u_n - v(\ell_n)}{n\ell_n^{2}}.
+\]
+
+---
+
+## Special case: No fair-pricing constraint (\(q=0\))
+
+When \(q=0\), the expression collapses to the Diamond (1998) formula:
+
+\[
+\frac{\tau_n}{1-\tau_n}
+=
+\left(1+\frac{1}{e_n}\right)
+\frac{\displaystyle \int_{n}^{\infty} (1-g_m)\, dF(m)}{\displaystyle n f(n)},
+\qquad
+g_m \equiv \frac{G'(u_m)}{p}.
+\]
+
+---
 
 ## **Figures**
 
