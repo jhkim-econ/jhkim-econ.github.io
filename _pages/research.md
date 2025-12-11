@@ -14,9 +14,7 @@ This paper incorporates the no-arbitrage condition from financial economics into
 
 For this linkage between labor and redistribution to hold and to prevent arbitrage, the planner must impose a fair-pricing constraint on the redistribution claim, analogous to that in financial economics, to ensure internal consistency within a complete-market equilibrium. Within this framework, I first analyze a two-bracket system that combines a wage subsidy and a proportional tax and then extend the analysis to a continuous schedule. The continuous formulation yields a correction term to the standard sufficient-statistics formula, increasing optimal marginal tax rates in proportion to the wedge between average and marginal rates. 
 
-Simulations under a log-normal skill distribution show that enforcing the fair-pricing constraint flattens conventional marginal tax profiles, consistent with the empirically observed tendency toward flatter rate schedules in advanced economies.
-
-Main Proposition: Average Tax Formula with Fair-Pricing Constraint
+### Main Proposition: Average Tax Formula with Fair-Pricing Constraint
 
 Assume quasi–linear preferences  
 $$
@@ -37,9 +35,7 @@ $$
 Let the associated Lagrange multiplier be \(q \in \mathbb{R}\), and let \(e_n\) denote the compensated elasticity of earnings.  
 When the risk-free interest rate is zero (\(r=0\)), the risk-neutral and physical measures coincide, so \(f_Q(n)=f(n)\).
 
----
-
-### **Main Result**
+**Main Result**
 
 $$
 \frac{\tau_n}{1-\tau_n}
@@ -64,9 +60,7 @@ $$
 \frac{\ell_n v'(\ell_n) - u_n - v(\ell_n)}{n\ell_n^{2}}=\frac{1}{\ell_n}\big(t^{\text{avg}}_n-\tau_n\big).
 $$
 
----
-
-### **Special Case: No Fair-Pricing Constraint (\(q=0\))**
+**Special Case: No Fair-Pricing Constraint (\(q=0\))**
 
 When \(q=0\), the formula reduces to Diamond (1998):
 
@@ -85,7 +79,9 @@ $$
 
 ---
 
-## **Figures**
+Simulations under a log-normal skill distribution show that enforcing the fair-pricing constraint flattens conventional marginal tax profiles, consistent with the empirically observed tendency toward flatter rate schedules in advanced economies.
+
+### **Figures**
 
 > **Figure 1. Degree of the correction term under the baseline scenario.** Panel A illustrates the standard result: marginal tax rates fall with income under a lognormal skill distribution. Panel B shows that when the fair-pricing constraint is excluded, the baseline estimate of the optimal marginal tax rate exhibits a correction term that is negative for low-income individuals and positive for high-income individuals. This implies that an optimal-taxation framework without the fair-pricing constraint may assign a heavier effective tax burden to low-income households than it should, particularly given that their labor supply is typically lower due to low wages.
 ![Figure Preview](../assets/1by2.png)
