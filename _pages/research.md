@@ -84,6 +84,7 @@ These findings show that overall, the absence of spillover pressure enables more
 
 ![Graphical Illustration Preview](../assets/graphic.png)
 
+
 ---
 
 
