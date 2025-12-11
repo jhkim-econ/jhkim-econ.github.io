@@ -5,7 +5,6 @@ author_profile: true
 mathjax: true
 ---
 
-## Independent Projects
 ## **Pricing Redistribution: Optimal Income Taxation with a Fair-Pricing Constraint**  
 *Discussion Draft in Progress (Oct 2025)*  
 [**View on SSRN →**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5589992)
