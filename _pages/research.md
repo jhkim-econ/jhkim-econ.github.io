@@ -61,7 +61,7 @@ $$
 
 $$
 \Theta_n =
-\frac{\ell_n v'(\ell_n) - u_n - v(\ell_n)}{n\ell_n^{2}}.
+\frac{\ell_n v'(\ell_n) - u_n - v(\ell_n)}{n\ell_n^{2}}=\frac{1}{\ell_n}\big(t^{\text{avg}}_n-\tau_n\big).
 $$
 
 ---
