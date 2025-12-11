@@ -13,7 +13,7 @@ This paper incorporates the no-arbitrage condition from financial economics into
 
 For this linkage between labor and redistribution to hold and to prevent arbitrage, the planner must impose a fair-pricing constraint on the redistribution claim, analogous to that in financial economics, to ensure internal consistency within a complete-market equilibrium. Within this framework, I first analyze a two-bracket system that combines a wage subsidy and a proportional tax and then extend the analysis to a continuous schedule. 
 
-The continuous formulation yields a correction term, \( \Theta_n \), to the standard sufficient-statistics component \( A_n \). This correction increases optimal marginal tax rates in proportion to the wedge between average and marginal tax rates. 
+The continuous formulation yields a correction term, $$\( \Theta_n \)$$, to the standard sufficient-statistics component \( A_n \). This correction increases optimal marginal tax rates in proportion to the wedge between average and marginal tax rates. 
 
 The parameter \( p \) represents the marginal cost of public funds associated with the standard resource constraint, while \( q \) is a newly introduced multiplier on the fair-pricing constraint. The ratio \( q/p \) therefore captures the weight the social planner places on enforcing fair pricing relative to satisfying the conventional resource constraint.
 
